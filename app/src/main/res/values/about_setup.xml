@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://img.zcool.cn/community/031e1675d67b26ca801211f9e6736ba.png@160w_160h_1c_1e_1o_100sh.jpg</item>
+
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>JPING</item>
+
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>I am a designer and a pixel art lover. Give me a moment to make PixelWorld better.\n我是一名设计师同时也热爱像素艺术，给我一点时间让我把 PixelWorld 做的更好</item>
+
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>ZCOOL|Behance</item>
+
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>http://jping.zcool.com.cn/|https://www.behance.net/wangjiping</item>
+
+    </string-array>
+</resources>

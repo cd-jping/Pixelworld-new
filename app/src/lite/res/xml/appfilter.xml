@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+
+
+    <!-- 常用图标适配 POPULAR ICONS -->
+
+    <!-- 国内 -->
+    <!-- WeChat -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat"/>
+    <!-- QQ空间 -->
+    <item component="ComponentInfo{com.qzone/com.tencent.sc.activity.SplashActivity}" drawable="qq_zone"/>
+    <!-- 酷安 -->
+    <item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="coolapk"/>
+    <!-- 支付宝 -->
+    <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay"/>
+
+
+    <!-- 国外 -->
+
+
+
+
+
+    <!-- 系统图标适配 SYSTEMS ICONS -->
+
+    <!-- ============================================================================ -->
+    <!-- 电话 -->
+
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}" drawable="phone"/>
+    <!-- Contacts_and_dialer -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="phone"/>
+    <!-- 适配Googlephone icons-->
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="phone"/>
+    <!-- ============================================================================ -->
+    <!-- 通讯录 -->
+
+
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+    <!-- Contacts_and_dialer -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+
+
+    <!-- ============================================================================ -->
+    <!-- 短信 -->
+
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
+    <!-- Messages -->
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+
+    <!-- Messaging -->
+    <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages"/>
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages"/>
+
+
+
+</resources>

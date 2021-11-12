@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version title="Pro 3.0.1" />
+    <item text="Add xxx icons" />
+    <item text="" /> <!-- this one is empty and therefore ignored -->
+</resources>

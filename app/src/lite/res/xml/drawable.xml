@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <version>1</version>
+
+
+    <category title="Popluar icon" />
+    <item drawable="wechat" />
+    <item drawable="alipay" />
+    <item drawable="qq_zone" />
+    <item drawable="coolapk" />
+
+
+
+
+</resources>

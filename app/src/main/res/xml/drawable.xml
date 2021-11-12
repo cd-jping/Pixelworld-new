@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <version>1</version>
+
+
+    <category title="System" />
+    <item drawable="phone" />
+    <item drawable="messages" />
+    <item drawable="contacts" />
+
+
+
+
+</resources>
