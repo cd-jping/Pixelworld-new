@@ -492,6 +492,10 @@
     <item component="ComponentInfo{com.smartisanos.clock/com.smartisanos.clock.activity.ClockActivity}" drawable="clock"/>
     <!-- Clock -->
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock"/>
+    <!-- Clock -->
+    <item
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock"/>
 
     <!-- ============================================================================ -->
     <!-- 指南针 -->
@@ -584,15 +588,15 @@
 
 
     <!-- Phone_Manager -->
-    <item component="ComponentInfo{com.smartisanos.security/com.smartisanos.securitycenter.MainActivity}" drawable="phone_manager"/>
+    <item component="ComponentInfo{com.smartisanos.security/com.smartisanos.securitycenter.MainActivity}" drawable="phone_management"/>
     <!-- Phone_Manager -->
-    <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="phone_manager"/>
+    <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="phone_management"/>
     <!-- Phone_Manager -->
-    <item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}" drawable="phone_manager"/>
+    <item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}" drawable="phone_management"/>
     <!-- i_Manager -->
-    <item component="ComponentInfo{com.iqoo.secure/com.iqoo.secure.MainGuideActivity}" drawable="phone_manager"/>
+    <item component="ComponentInfo{com.iqoo.secure/com.iqoo.secure.MainGuideActivity}" drawable="phone_management"/>
     <!-- Security -->
-    <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="phone_manager"/>
+    <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="phone_management"/>
 
     <!-- ============================================================================ -->
     <!-- 邮件 -->
