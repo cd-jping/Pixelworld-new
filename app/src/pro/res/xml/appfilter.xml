@@ -1,0 +1,3463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<resources>
+    <iconback img1="iconback1"/>
+    <iconmask img1="iconmask1"/>
+    <iconupon img1="iconupon1"/>
+
+    <iconback img2="iconback2"/>
+    <iconmask img2="iconmask2"/>
+    <iconupon img2="iconupon2"/>
+
+    <scale factor="1.00"/>
+
+
+
+    <!-- ================================= Pro版本图标适配 Pro ICONS ================================================================================================================================== -->
+
+
+    <!--    24 update-->
+    <!-- Alarmy -->
+    <item component="ComponentInfo{droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity}" drawable="alarmy"/>
+
+    <!-- Addons -->
+    <item component="ComponentInfo{com.kayenworks.mcpeaddons/com.kayenworks.mcpeaddons.SplashActivity}" drawable="addons"/>
+
+    <!-- Pixel Studio -->
+    <item component="ComponentInfo{com.PixelStudio/com.unity3d.player.UnityPlayerActivity}" drawable="pixel_studio"/>
+
+    <!-- 云 原神 -->
+    <item component="ComponentInfo{com.miHoYo.cloudgames.ys/com.mihoyo.cloudgame.ui.SplashActivity}" drawable="yun_yuanshen"/>
+
+    <!-- 谷歌服务助手 -->
+    <item component="ComponentInfo{com.lzplay.helper/com.lzplay.helper.SplashActivity}" drawable="gugefuwuzhushou"/>
+
+    <!-- 老子追剧 -->
+    <item component="ComponentInfo{com.walixiwa.easyplayer/com.walixiwa.easyplayer.ui.activity.otherActivitys.SplashActivity}" drawable="laozizhuiju"/>
+
+    <!-- Ultimate VPN -->
+    <item component="ComponentInfo{com.open.hotspot.vpn.free/com.open.hotspot.vpn.free.ui.activity.LauncherActivity}" drawable="ultimate_vpn"/>
+
+    <!-- Opera -->
+    <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera"/>
+
+    <!--23 update-->
+    <!-- I酷影视 -->
+    <item component="ComponentInfo{com.play.tvseries/com.play.tvseries.activity.LauncherActivity}" drawable="ikuyingshi"/>
+
+    <!-- 即刻 -->
+    <item component="ComponentInfo{com.ruguoapp.jike/com.ruguoapp.jike.bu.launch.ui.SplashActivity}" drawable="jike"/>
+
+    <!-- 标准日本语 -->
+    <item component="ComponentInfo{com.PEP.biaori/com.PEP.biaori.activity.SplashActivity}" drawable="biaozhunribenyu"/>
+
+    <!-- 江南百景图 -->
+    <item component="ComponentInfo{com.cis.jiangnan.taptap/com.cis.cisframework.CISActivity}" drawable="jiangnanbaijingtu"/>
+
+    <!-- 用药助手 -->
+    <item component="ComponentInfo{cn.dxy.medicinehelper/cn.dxy.medicinehelper.activity.DrugLaunchActivity}" drawable="yongyaozhushou"/>
+
+    <!-- 追剧达人 -->
+    <item component="ComponentInfo{vipmv.tv/cn.xg.video.MainActivity}" drawable="zhuijudaren"/>
+
+
+    <!-- 阿里云盘 -->
+    <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.splash.SplashActivity}" drawable="aliyunpan"/>
+
+    <!-- 非线性壁纸 -->
+    <item component="ComponentInfo{yyc.xk.workshop/yyc.xk.workshop.MainActivity}" drawable="feixianxingbizhi"/>
+
+    <!-- 薄荷健康 -->
+    <item component="ComponentInfo{com.boohee.one/com.boohee.one.app.home.ui.activity.SplashActivity}" drawable="bohejiankang"/>
+    <!--    22 update -->
+
+    <!-- FastSave -->
+    <item component="ComponentInfo{photo.video.instasaveapp/fast.browser.activity.MainActivity}" drawable="fastsave"/>
+
+    <!-- Nn -->
+    <item component="ComponentInfo{com.nn.accelerator/com.nn.accelerator.activity.WelcomeActivity}" drawable="nn"/>
+
+    <!-- ZenFlipClock -->
+    <item component="ComponentInfo{com.mad.zenflipclock/com.mad.zenflipclock.ui.MainActivity}" drawable="zenflipclock"/>
+
+    <!-- 狗头人 -->
+    <item component="ComponentInfo{com.huijiwiki.huiji_app/com.huijiwiki.huiji_app.MainActivity}" drawable="goutouren"/>
+
+    <!-- 米游社 -->
+    <item component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.ui.SplashActivity}" drawable="miyoushe"/>
+
+    <!-- 美剧星球 -->
+    <item component="ComponentInfo{com.mjxq.app/com.mjxq.app.ui.activity.LaunchActivity}" drawable="meijuxingqiu_2"/>
+    <!--21 update-->
+
+    <!-- 58本地版 -->
+    <item component="ComponentInfo{com.wuba.town.client/com.wuba.wubadepartment.MultiActivity}" drawable="a_58_tongcheng"/>
+
+    <!-- AI Life -->
+    <item component="ComponentInfo{com.huawei.smarthome/com.huawei.smarthome.login.LauncherActivity}" drawable="ai_life"/>
+
+    <!-- AppAssistant -->
+    <item component="ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}" drawable="appassistant"/>
+
+    <!-- Cloud -->
+    <item component="ComponentInfo{com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingActivity}" drawable="cloud"/>
+
+    <!-- E签宝 -->
+    <item component="ComponentInfo{cn.tsign.esign/cn.tsign.esign.activity.welcome.WelcomeActivity}" drawable="e_qianbao"/>
+
+    <!-- Miss Lee -->
+    <item component="ComponentInfo{com.whatsbug.litiaotiao/com.whatsbug.litiaotiao.MainActivity}" drawable="miss_lee"/>
+
+    <!-- Musicolet -->
+    <item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet"/>
+
+    <!-- Shizuku -->
+    <item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku"/>
+
+    <!-- WangVPN -->
+    <item component="ComponentInfo{com.sticktoit/com.sticktoit.activity.MainActivity}" drawable="wangvpn"/>
+
+    <!-- Xodo Docs -->
+    <item component="ComponentInfo{com.xodo.pdf.reader/viewer.CompleteReaderMainActivity}" drawable="xodo_docs"/>
+
+    <!-- 推栏 -->
+    <item component="ComponentInfo{com.seasun.tech.woh.jx3companion/com.seasun.tech.woh.jx3companion.MainActivity}" drawable="tuilan"/>
+
+    <!-- 日上会员 -->
+    <item component="ComponentInfo{com.sunrisedutyfree.apps.sunrisemembers/io.dcloud.PandoraEntry}" drawable="rishanghuiyuan"/>
+
+    <!-- 歌词适配 -->
+    <item component="ComponentInfo{com.mylrc.mymusic/com.mylrc.mymusic.activity.logo}" drawable="gecishipei"/>
+
+    <!-- 玲珑密保锁 -->
+    <item component="ComponentInfo{com.kingsoft.android.cat/com.kingsoft.android.cat.ui.activity.SplashScreenActivity}" drawable="linglongmibaosuo"/>
+
+    <!-- 小翼管家 -->
+    <item component="ComponentInfo{com.yueme.itv/com.muticontrolclient.itv.ui.activity.CoverActivity}" drawable="xiaoyiguanjia"/>
+
+    <!-- My OnePlus -->
+    <item component="ComponentInfo{com.heytap.vip/com.platform.usercenter.vip.UCVIPMainActivity}" drawable="my_oneplus"/>
+
+    <!-- 极无双 -->
+    <item component="ComponentInfo{com.taiyouxi.ifsanguo.huawei/com.taiyouxi.a3k.SplashActivity}" drawable="jiwushuang"/>
+
+    <!--    20update-->
+    <!-- Patreon -->
+    <item component="ComponentInfo{com.patreon.android/com.patreon.android.ui.shared.LauncherActivity}" drawable="patreon"/>
+
+    <!-- QMD -->
+    <item component="ComponentInfo{com.qmd.junzi.qmd/com.qmd.junzi.activity.MainActivity}" drawable="qmd"/>
+
+    <!-- 掌上WeGame -->
+    <item component="ComponentInfo{com.tencent.tgp/com.tencent.wegame.splash.SplashActivity}" drawable="zhangshang_wegame"/>
+
+    <!-- 战魂铭人 -->
+    <item component="ComponentInfo{com.chillyroom.zhmr.yw/com.image.abo.pingxx.MainActivity}" drawable="zhanhunmingren"/>
+
+    <!-- 火影忍者 -->
+    <item component="ComponentInfo{com.tencent.KiHan/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="huoyingrenzhe"/>
+
+    <!-- 网易云游戏 -->
+    <item component="ComponentInfo{com.netease.android.cloudgame/com.netease.android.cloudgame.MainActivity}" drawable="netease_cloudgame"/>
+
+    <!-- 葫芦侠 -->
+    <item component="ComponentInfo{com.huluxia.gametools/com.huluxia.gametools.ui.ToolSplashActivity}" drawable="huluxia"/>
+
+    <!-- 一指禅 -->
+    <item component="ComponentInfo{me.app.xad/me.app.xad.FA}" drawable="yizhichan"/>
+
+    <!-- Comics -->
+    <item component="ComponentInfo{com.iconology.comics/com.iconology.ui.navigation.RouterActivity}" drawable="comics"/>
+
+    <!-- ES File Explorer -->
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="es_file_explorer"/>
+
+    <!-- 安卓壁纸 -->
+    <item component="ComponentInfo{com.androidesk/com.adesk.picasso.view.MainActivity}" drawable="anzhuobizhi"/>
+
+
+    <!--19 update-->
+
+    <!-- 网商银行 -->
+    <item component="ComponentInfo{com.mybank.android.phone/com.mybank.android.phone.MainActivity}" drawable="wangshangyinhang"/>
+
+    <!-- QQ输入法 -->
+    <item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}" drawable="qq_shurufa"/>
+
+    <!-- 4399游戏盒 -->
+    <item component="ComponentInfo{com.m4399.gamecenter/com.m4399.gamecenter.controllers.splash.SplashActivity}" drawable="a_4399_youxihe"/>
+
+    <!-- Magic Browser -->
+    <item component="ComponentInfo{com.z28j.feel/com.z28j.feel.HomeActivity}" drawable="magic_browser"/>
+
+    <!-- QQ音乐简洁版 -->
+    <item component="ComponentInfo{com.tencent.qqmusiclite/com.tencent.qqmusiclite.SplashActivity}" drawable="qq_music_jianjieban"/>
+
+    <!-- Tap加速器 -->
+    <item component="ComponentInfo{com.xindong.rocket/com.xindong.rocket.activity.LaunchActivity}" drawable="tap_jiasuqi"/>
+
+    <!-- 小陌影视 -->
+    <item component="ComponentInfo{myapp.xiaomoyingshi/net.fusionapp.core.WelcomeActivity}" drawable="xiaomoyingshi"/>
+
+    <!-- 文叔叔 -->
+    <item component="ComponentInfo{com.wenshushu.app.android/com.wenshushu.app.android.MainActivity}" drawable="wenshushu"/>
+
+    <!-- Firefox -->
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox"/>
+
+    <!-- IFTTT -->
+    <item component="ComponentInfo{com.ifttt.ifttt/com.ifttt.ifttt.home.HomeActivity}" drawable="ifttt"/>
+
+    <!-- Luckin Coffee -->
+    <item component="ComponentInfo{com.lucky.luckyclient/com.luckin.client.main.splash.SplashActivity}" drawable="luckin_coffee"/>
+
+    <!--    18 update-->
+
+    <!-- Warframe -->
+    <item component="ComponentInfo{com.digitalextremes.warframenexus/com.digitalextremes.warframenexus.WarframeActivity}" drawable="warframe"/>
+
+    <!-- Via -->
+    <item component="ComponentInfo{mark.via/mark.via.Shell}" drawable="via"/>
+
+    <!-- Steam -->
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
+
+    <!-- Notepad -->
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notepad"/>
+
+    <!-- Duolingo -->
+    <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo"/>
+
+    <!-- Apple Music -->
+    <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music"/>
+
+    <!-- Clash For Android -->
+    <item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" drawable="clash_for_android"/>
+
+    <!-- Community -->
+    <item component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" drawable="oneplus_community"/>
+
+    <!-- DevCheck -->
+    <item component="ComponentInfo{flar2.devcheck/flar2.devcheck.SplashActivity}" drawable="devcheck"/>
+
+    <!-- Device Info HW -->
+    <item component="ComponentInfo{ru.andr7e.deviceinfohw.pro/ru.andr7e.deviceinfohw.MainActivity}" drawable="device_info_hw"/>
+
+    <!-- Headphones -->
+    <item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="headphones"/>
+
+    <!-- Notion -->
+    <item component="ComponentInfo{notion.id/notion.local.id.MainActivity}" drawable="notion"/>
+
+    <!-- Solid Explorer -->
+    <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer"/>
+
+    <!--17 update-->
+    <!-- Cinema Pro -->
+    <item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="cinema_pro"/>
+
+    <!-- Dolby On -->
+    <item component="ComponentInfo{com.dolby.dolby234/com.dolby.sessions.Launcher}" drawable="dolby_on"/>
+
+    <!-- Game Enhancer -->
+    <item component="ComponentInfo{com.sonymobile.gameenhancer/com.sonymobile.gameenhancer.common.MainActivity}" drawable="game_enhancer"/>
+
+    <!-- Movie Creator -->
+    <item component="ComponentInfo{com.sonymobile.moviecreator.rmm/com.sonymobile.moviecreator.rmm.LaunchActivity}" drawable="movie_creator"/>
+
+    <!-- 蜻蜓FM -->
+    <item component="ComponentInfo{fm.qingting.qtradio/fm.qingting.qtradio.WelcomeActivity}" drawable="qingting_fm"/>
+
+    <!-- 微店 -->
+    <item component="ComponentInfo{com.koudai.weidian.buyer/com.koudai.weidian.buyer.activity.SplashActivity}" drawable="weidian"/>
+
+    <!-- 四川农信 -->
+    <item component="ComponentInfo{com.nxy.sc/com.alipay.mobile.quinox.LauncherActivity}" drawable="nongxin"/>
+
+    <!-- Via -->
+    <item component="ComponentInfo{mark.via/mark.via.Shell}" drawable="via"/>
+
+    <!-- Support -->
+    <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="support"/>
+
+    <!-- Root Explorer -->
+    <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="root_explorer"/>
+
+    <!-- 36氪 -->
+    <item component="ComponentInfo{com.android36kr.app/com.android36kr.app.ui.LogoActivity}" drawable="a_36kr"/>
+
+    <!-- Alight Motion -->
+    <item component="ComponentInfo{com.alightcreative.motion/com.alightcreative.app.motion.activities.main.MainActivity}" drawable="alight_motion"/>
+
+    <!-- Bilibili -->
+    <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
+
+    <!-- Bilimiao -->
+    <item component="ComponentInfo{com.a10miaomiao.bilimiao/com.a10miaomiao.bilimiao.ui.MainActivity}" drawable="bilimiao"/>
+
+    <!-- Blended KWGT -->
+    <item component="ComponentInfo{blendedkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="blended_kwgt"/>
+
+    <!-- Brevent -->
+    <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="brevent"/>
+
+    <!-- CSDN -->
+    <item component="ComponentInfo{net.csdn.csdnplus/net.csdn.csdnplus.activity.SplashActivity}" drawable="csdn_one"/>
+
+    <!-- Canva 可画 -->
+    <item component="ComponentInfo{cn.canva.editor/com.canva.app.editor.splash.DataConsentSplashActivity}" drawable="canva"/>
+
+    <!-- Crimaster犯罪大师 -->
+    <item component="ComponentInfo{com.ultron.crimaster/io.dcloud.PandoraEntry}" drawable="crimaster"/>
+
+    <!-- Cuto -->
+    <item component="ComponentInfo{com.sspai.cuto.android/com.sspai.cuto.android.ui.main.MainActivity}" drawable="cuto"/>
+
+    <!--    16 update-->
+    <!-- 时钟 update -->
+    <item component="ComponentInfo{com.frank.myclock/com.frank.myclock.activity.MainActivity}" drawable="clock_dark"/>
+
+    <!-- LetsView -->
+    <item component="ComponentInfo{com.apowersoft.letsview/com.screenshare.main.page.splash.SplashActivity}" drawable="letsview"/>
+
+    <!-- Lawnchair -->
+    <item component="ComponentInfo{ch.deletescape.lawnchair.mokee/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair"/>
+
+    <!-- Magisk -->
+    <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}" drawable="magisk_manager"/>
+
+    <!-- Via -->
+    <item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="via"/>
+
+    <!-- 洪 -->
+    <item component="ComponentInfo{com.onepuppy.hong.iconpack/cn.ommiao.iconpacktemplate.MainActivity}" drawable="hong"/>
+
+    <!-- 腾讯体育 -->
+    <item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="tencent_sport"/>
+
+    <!--    15update-->
+    <!-- Bg Remover -->
+    <item component="ComponentInfo{com.apowersoft.backgrounderaser/com.backgrounderaser.main.page.splash.SplashActivity}" drawable="bg_remover"/>
+
+    <!-- CSDN -->
+    <item component="ComponentInfo{net.csdn.csdnplus/net.csdn.csdnplus.activity.MainActivity}" drawable="csdn"/>
+
+    <!-- Cam Homme -->
+    <item component="ComponentInfo{com.adnonstop.mancamera2017/com.adnonstop.mancamera2017.CamHomme}" drawable="cam_homme"/>
+
+    <!-- Camera Detector -->
+    <item component="ComponentInfo{com.jacey.camera.detector/com.jacey.camera.detector.SplashActivity}" drawable="camera_detector"/>
+
+    <!-- Forest -->
+    <item component="ComponentInfo{cc.forestapp/cc.forestapp.applications.SplashActivity}" drawable="forest"/>
+
+    <!-- Meituan -->
+    <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}" drawable="meituan"/>
+
+    <!-- Phyphox -->
+    <item component="ComponentInfo{de.rwth_aachen.phyphox/de.rwth_aachen.phyphox.ExperimentList}" drawable="phyphox"/>
+
+    <!-- Pixlr -->
+    <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr"/>
+
+    <!-- StopWatch -->
+    <item component="ComponentInfo{org.coolcode.stopwatch/org.coolcode.stopwatch.Main}" drawable="stopwatch"/>
+
+    <!-- UOKA有咔 -->
+    <item component="ComponentInfo{com.lemon.yoka/com.lemon.yoka.login.LoadingPageActivity}" drawable="uoka"/>
+
+    <!-- AppGallery -->
+    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery"/>
+
+
+    <!-- 360 Dash Cam -->
+    <item component="ComponentInfo{com.qihoo.dr/com.qihoo.dr.ActivityWelcome}" drawable="a_360_dash_cam"/>
+
+    <!-- 3DMGame -->
+    <item component="ComponentInfo{com.ws3dm.app/com.ws3dm.app.activity.SplashActivity}" drawable="a_3dmgame"/>
+
+    <!-- Breeno Voice -->
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.launcher.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+
+    <!-- Fotiaoqiang -->
+    <item component="ComponentInfo{com.fotiaoqiang.android.vpn/com.vpn.code.activity.MainActivity}" drawable="fotiaoqiang"/>
+
+    <!-- Meituan -->
+    <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}" drawable="meituan"/>
+
+    <!-- Nature图标包 -->
+    <item component="ComponentInfo{com.nature.iconpack/com.candybar.sample.activities.SplashActivity}" drawable="natureiconpack"/>
+
+    <!-- PRINT -->
+    <item component="ComponentInfo{jp.co.canon.bsd.ad.pixmaprint/jp.co.canon.bsd.ad.pixmaprint.EulaActivity}" drawable="print"/>
+
+    <!-- SELPHY Photo Layout -->
+    <item component="ComponentInfo{jp.co.canon.ic.photolayout/jp.co.canon.ic.photolayout.MainActivity}" drawable="selphy_photo_layout"/>
+
+    <!-- TISAN -->
+    <item component="ComponentInfo{com.douerhao.tisan/cn.ommiao.iconpacktemplate.MainActivity}" drawable="tisan"/>
+
+    <!-- WangVPN Lite -->
+    <item component="ComponentInfo{com.trustyourself/com.trustyourself.activity.MainActivity}" drawable="wangvpn_lite"/>
+
+
+
+    <!-- AppGallery -->
+    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery"/>
+
+
+
+
+    <!-- Dianping -->
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}" drawable="dianping"/>
+
+
+
+    <!-- 我的世界 -->
+    <item component="ComponentInfo{com.netease.x19/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="minecraft"/>
+
+
+    <!--14 update-->
+
+    <!-- 阅读 -->
+    <item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.WelcomeActivity}" drawable="yuedu"/>
+
+    <!-- 迅雷 -->
+    <item component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}" drawable="xunlei"/>
+
+    <!-- 腾讯动漫 -->
+    <item component="ComponentInfo{com.qq.ac.android/com.qq.ac.android.view.activity.SplashActivity}" drawable="tencent_dongman"/>
+
+    <!-- 翼支付 -->
+    <item component="ComponentInfo{com.chinatelecom.bestpayclient/com.chinatelecom.bestpayclient.ui.MainActivity}" drawable="yizhifu"/>
+
+    <!-- 懒人听书 -->
+    <item component="ComponentInfo{bubei.tingshu/bubei.tingshu.listen.guide.ui.activity.LOGOActivity}" drawable="lanrentingshu"/>
+
+    <!-- 开心消消乐 -->
+    <item component="ComponentInfo{com.happyelements.AndroidAnimal/com.happyelements.android.platform.oppo.ads.SplashActivity}" drawable="kaixinxiaoxiaole"/>
+
+    <!-- 心竺公考 -->
+    <item component="ComponentInfo{com.xinzhu.gongkao/com.xinzhu.train.appstart.WelcomeActivity}" drawable="xinzhugongkao"/>
+
+    <!-- 南瓜影视 -->
+    <item component="ComponentInfo{com.pumpkinteam.pumpkinplayer.Duck/com.video.test.module.splash.SplashActivity}" drawable="nanguayingshi"/>
+
+    <!-- 懒饭 -->
+    <item component="ComponentInfo{com.xiachufang.lazycook/com.xiachufang.lazycook.ui.main.home.HomeActivity}" drawable="lanfan"/>
+
+    <!-- 掌上英雄联盟 -->
+    <item component="ComponentInfo{com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.LauncherActivity}" drawable="zhangshangyingxionglianmeng"/>
+
+    <!-- Pitu -->
+    <item component="ComponentInfo{com.tencent.ttpic/com.tencent.ttpic.module.MainActivity}" drawable="pitu"/>
+
+    <!-- Snapmod -->
+    <item component="ComponentInfo{cn.gavinliu.snapmod/cn.gavinliu.snapmod.ui.SplashActivity}" drawable="snapmod"/>
+
+    <!-- U净 -->
+    <item component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.ui.activity.SplashActivity}" drawable="u_jing"/>
+
+    <!-- WakeUp课程表 -->
+    <item component="ComponentInfo{com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.SplashActivity}" drawable="wakeup_kechengbiao"/>
+
+    <!-- 中国气象  update-->
+    <item component="ComponentInfo{com.china/com.china.activity.WelcomeActivity}" drawable="weather"/>
+
+    <!-- 企鹅电竞 -->
+    <item component="ComponentInfo{com.tencent.qgame/com.tencent.qgame.presentation.activity.SplashActivity}" drawable="qiedianjing"/>
+
+    <!-- 分期乐 -->
+    <item component="ComponentInfo{com.fenqile.fenqile/com.fenqile.ui.home.HomeActivity}" drawable="fenxile"/>
+
+    <!-- 图凌 -->
+    <item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}" drawable="tuling"/>
+
+    <!-- 头像空间 -->
+    <item component="ComponentInfo{com.orangemedia.avatar/com.orangemedia.avatar.view.activity.LaunchActivity}" drawable="touxiangkongjian"/>
+
+    <!-- 会话微件 -->
+    <item component="ComponentInfo{com.example.raccoon.dialogwidget/com.example.raccoon.dialogwidget.app.activity.main.MainActivity}" drawable="huihuaweijian"/>
+
+    <!-- Igniter -->
+    <item component="ComponentInfo{io.github.trojan_gfw.igniter/io.github.trojan_gfw.igniter.MainActivity}" drawable="igniter"/>
+
+    <!-- Lantern -->
+    <item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.Launcher}" drawable="lantern"/>
+
+    <!-- VivaVideo -->
+    <item component="ComponentInfo{com.quvideo.xiaoying/com.quvideo.slideplus.app.splash.SplashActivity_fake}" drawable="vivavideo"/>
+
+    <!-- 一刻相册 -->
+    <item component="ComponentInfo{com.baidu.youavideo/com.baidu.youavideo.app.ui.SplashActivity}" drawable="yikexiangce"/>
+
+    <!-- 堆糖 -->
+    <item component="ComponentInfo{com.duitang.main/com.duitang.main.activity.SplashActivity}" drawable="duitang"/>
+
+    <!-- 小日常 -->
+    <item component="ComponentInfo{com.dandelion.routine/com.dandelion.routine.MainActivity}" drawable="xiaorichang"/>
+
+    <!-- 豌豆荚 -->
+    <item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}" drawable="wandoujia"/>
+
+    <!-- Soul -->
+    <item component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.splash.SplashActivity}" drawable="soul"/>
+
+    <!--    13 update-->
+    <!-- Clash_Royale -->
+    <item component="ComponentInfo{com.supercell.clashroyale.vivo/com.supercell.titan.kunlun.GameAppKunlun}" drawable="clash_royale"/>
+
+
+
+    <!-- Niagara_Launcher -->
+    <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="niagara_launcher"/>
+
+    <!-- PUBG_Tool_Alpha_Pro -->
+    <item component="ComponentInfo{com.yaxisvip.pubgtoolalpha.pro/com.e4a.runtime.android.StartActivity}" drawable="pubg_tool_alpha_pro"/>
+
+    <!-- Soul_Knight -->
+    <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.image.abo.pingxx.MainActivity}" drawable="soul_knight"/>
+
+    <!-- Tips -->
+    <item component="ComponentInfo{com.vivo.Tips/com.vivo.Tips.MainActivity}" drawable="tips"/>
+
+    <!-- UU_Booster -->
+    <item component="ComponentInfo{com.netease.uu/com.netease.uu.activity.MainActivity}" drawable="uu_booster"/>
+
+    <!-- 和平营地 -->
+    <item component="ComponentInfo{com.tencent.gamehelper.pg/com.tencent.gamehelper.ui.main.WelcomeActivity}" drawable="hepingyingdi"/>
+
+    <!-- 心悦俱乐部 -->
+    <item component="ComponentInfo{com.tencent.tgclub/com.tencent.tgclub.business.appframe.WelcomeActivity}" drawable="xinyuejulebu"/>
+
+    <!-- 搜书大师 -->
+    <item component="ComponentInfo{com.flyersoft.seekbooks/com.flyersoft.WB.SplashActivity}" drawable="soushudashi"/>
+
+    <!-- 浙江移动手机营业厅 -->
+    <item component="ComponentInfo{com.example.businesshall/com.businesshall.activity.NewLogoActivity}" drawable="zhongguoyidong"/>
+
+    <!-- 漫画台 -->
+    <item component="ComponentInfo{com.comic.manhuatai/com.wbxm.icartoon.ui.CoverActivity}" drawable="manhuatai"/>
+
+
+    <!-- AcFun -->
+    <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}" drawable="acfun"/>
+
+    <!-- EhViewer -->
+    <item component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}" drawable="ehviewer"/>
+
+    <!-- FM_Radio -->
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="fm_radio"/>
+
+    <!-- GAS -->
+    <item component="ComponentInfo{cc.hayden.gas/cc.hayden.gas.activity.MainActivity}" drawable="gas"/>
+
+    <!-- GMSinstaller -->
+    <item component="ComponentInfo{com.huawei.gmsinstaller/com.huawei.gms.InstallActivity}" drawable="gmsinstaller"/>
+
+    <!-- HiCare -->
+    <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}" drawable="hicare"/>
+
+    <!-- Huawei_Videos -->
+    <item component="ComponentInfo{com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="huawei_videos"/>
+
+    <!-- Nekogram -->
+    <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.ui.LaunchActivity}" drawable="nekogram"/>
+
+    <!-- Phone_Clone -->
+    <item component="ComponentInfo{com.hicloud.android.clone/com.huawei.android.clone.activity.sender.ChooseRecevieSendActivity}" drawable="phone_clone"/>
+
+    <!-- SSR -->
+    <item component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" drawable="ssr"/>
+
+    <!-- SIM_Toolkit -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim_toolkit"/>
+
+
+    <!-- Surfboard -->
+    <item component="ComponentInfo{com.getsurfboard/com.getsurfboard.activity.MainActivity}" drawable="surfboard"/>
+
+    <!-- System_UI -->
+    <item component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}" drawable="system_ui"/>
+
+    <!-- System_update -->
+    <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="system_update"/>
+
+    <!-- xin -->
+    <item component="ComponentInfo{cn.coldsong.xin2/tyrant.com.emui.xin.MainActivity}" drawable="xin"/>
+
+    <!-- 人人通空间 -->
+    <item component="ComponentInfo{net.whty.app.eyu/net.whty.app.eyu.ui.LaunchActivity}" drawable="renrentongkongjian"/>
+
+    <!-- 作业精灵 -->
+    <item component="ComponentInfo{com.pcncn.jj/com.pcncn.jj.act.SplashNewActivity}" drawable="zuoyejingling"/>
+
+    <!-- 司机社 -->
+    <item component="ComponentInfo{com.www.sijishe.cc/com.androlua.Welcome}" drawable="sijishe"/>
+
+    <!-- 域_下载器 -->
+    <item component="ComponentInfo{com.domain.down/com.e4a.runtime.android.StartActivity}" drawable="yu_xiazaiqi"/>
+
+    <!-- 实用工具箱 -->
+    <item component="ComponentInfo{com.hj119.sygjx/com.e4a.runtime.android.StartActivity}" drawable="shiyonggongjuxiang"/>
+
+    <!-- 荟萃浏览器 -->
+    <item component="ComponentInfo{cn.uujian.browser/cn.uujian.SplashActivity}" drawable="huicuiliulanqi"/>
+
+    <!-- 网盘搜索 -->
+    <item component="ComponentInfo{com.void_lhf.wmsp/com.xkcopyrightpage.MainActivity}" drawable="wangpansousuo"/>
+
+    <!-- 简易影视 -->
+    <item component="ComponentInfo{com.site.jianyiys.player/com.e4a.runtime.android.StartActivity}" drawable="jianyiyingshi"/>
+
+    <!-- 清清理 -->
+    <item component="ComponentInfo{com.mh.cleantoo/com.mh.cleantoo.SplashActivity}" drawable="qingqingli"/>
+
+    <!-- 搜书大师 -->
+    <item component="ComponentInfo{com.flyersoft.seekbooks/com.flyersoft.WB.SplashActivity}" drawable="soushudashi"/>
+
+    <!-- 强人锁头X -->
+    <item component="ComponentInfo{com.CY.suotou/com.CY.suotou.MainActivity}" drawable="qiangrensuotoux"/>
+
+    <!-- 悟空遥控器 -->
+    <item component="ComponentInfo{com.wukongtv.wkremote.client/com.wukongtv.wkremote.client.widget.guidepage.SplashActivity}" drawable="wukongyaokongqi"/>
+
+    <!--    12 update-->
+
+    <!-- 虎牙直播 -->
+    <item component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}" drawable="huyazhibo"/>
+
+    <!-- 肯德基 -->
+    <item component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}" drawable="kedeji"/>
+
+    <!-- 游民星空 -->
+    <item component="ComponentInfo{com.gamersky/com.gamersky.WellcomeActivity}" drawable="youminxingkong"/>
+
+    <!-- 有品 -->
+    <item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}" drawable="youpin"/>
+
+    <!-- 易公交 -->
+    <item component="ComponentInfo{com.cictec.busintelligentonline/com.cictec.busintelligentonline.activity.LoadingActivity}" drawable="yigongjiao"/>
+
+    <!-- 懂球帝 -->
+    <item component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}" drawable="dongqiudi"/>
+
+    <!-- 小草 -->
+    <item component="ComponentInfo{com.cl.newt66y/com.cl.newt66y.MainActivity}" drawable="xiaocao"/>
+
+    <!-- 小米商城 -->
+    <item component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}" drawable="xiaomishangcheng"/>
+
+    <!-- 哔哩哔哩 -->
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}" drawable="bilibili"/>
+
+    <!-- 哈啰出行 -->
+    <item component="ComponentInfo{com.jingyao.easybike/com.hellobike.atlas.business.splash.SplashActivity}" drawable="haluochuxing"/>
+
+    <!-- 交管12123 -->
+    <item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}" drawable="jiaoguan_12123"/>
+
+    <!-- iHerb_中国 -->
+    <item component="ComponentInfo{com.iherb.cn/com.iherb.other.BeforeSplashActivity}" drawable="iherb_zhongguo"/>
+
+    <!-- WiFi_Master_Key -->
+    <item component="ComponentInfo{com.qy.wifi/com.lantern.launcher.ui.MainActivityICS}" drawable="wifi_master_key"/>
+
+    <!-- WiFi_Master_Key -->
+    <item component="ComponentInfo{qyma.wifikey/com.lantern.launcher.ui.MainActivity}" drawable="wifi_master_key"/>
+
+    <!-- Neater_圆图标包 -->
+    <item component="ComponentInfo{siawn.neater.round/siawn.neater.round.activity.MainActivity}" drawable="neater_yuantubiaobao"/>
+
+    <!-- 360家庭防火墙 -->
+    <item component="ComponentInfo{com.qihoo.srouter.n300/com.ifenglian.superapp.ui.splash.SAWelcomeActivity}" drawable="a_360_jiatingfanghuoqiang"/>
+
+    <!-- AccuBattery -->
+    <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery"/>
+
+    <!-- Money_Manager -->
+    <item component="ComponentInfo{com.glgjing.money.manager.bookkeeping/com.glgjing.pig.ui.home.HomeActivity}" drawable="money_manager"/>
+
+    <!-- 麻雀记 -->
+    <item component="ComponentInfo{com.chrissen.card/com.chrissen.module_card.module_card.functions.main.mvp.view.activity.MainActivity}" drawable="maqueji"/>
+
+    <!--    11次更新-->
+
+    <!-- APKPure -->
+    <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
+
+    <!-- AppSales -->
+    <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="appsales"/>
+
+    <!-- Aspirin -->
+    <item component="ComponentInfo{rygel.cn.aspirin/rygel.cn.aspirin.MainActivity}" drawable="aspirin"/>
+
+    <!-- Breeno_Voice -->
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+
+    <!-- Bubblegum -->
+    <item component="ComponentInfo{com.dreamon.bubblegum/com.dreamon.bubblegum.activities.SplashActivity}" drawable="bubblegum"/>
+
+    <!-- Card_Package -->
+    <item component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}" drawable="card_package"/>
+
+    <!-- DJI_Mimo -->
+    <item component="ComponentInfo{dji.mimo/dji.mimo.main.DJISplashActivity}" drawable="dji_mimo"/>
+
+    <!-- English_Grammar_and_Test -->
+    <item component="ComponentInfo{com.hitech.englishtest/com.tool.tc.englishgrammarandtests.activities.SplashActivity}" drawable="english_grammar_and_test"/>
+
+    <!-- FIMO -->
+    <item component="ComponentInfo{com.fimo.camera/com.fimo.camera.StartActivity}" drawable="fimo"/>
+
+    <!-- Faceu激萌 -->
+    <item component="ComponentInfo{com.lemon.faceu/com.android.maya.activity.SplashActivity}" drawable="faceu_jimeng"/>
+
+
+    <!-- Habits -->
+    <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="habits"/>
+
+    <!-- Mark -->
+    <item component="ComponentInfo{com.intlime.mark/com.intlime.mark.MainActivity}" drawable="mark"/>
+
+    <!-- Market -->
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="market"/>
+
+
+    <!-- OnePlus_Switch -->
+    <item component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" drawable="oneplus_switch"/>
+
+    <!-- OurPlay_原谷歌空间 -->
+    <item component="ComponentInfo{com.excean.gspace/com.excelliance.kxqp.ui.HelloActivity}" drawable="ourplay_yuangugekongjian"/>
+
+    <!-- PPIICC -->
+    <item component="ComponentInfo{bos.consoar.imagestitch/bos.consoar.imagestitch.ui.MainActivity}" drawable="ppiicc"/>
+
+    <!-- PicACG -->
+    <item component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}" drawable="picacg"/>
+
+    <!-- Pornhub -->
+    <item component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}" drawable="pornhub"/>
+
+
+    <!-- Retouch -->
+    <item component="ComponentInfo{com.advasoft.touchretouch/com.advasoft.touchretouch4.LicenseActivity}" drawable="retouch"/>
+
+    <!-- Soul -->
+    <item component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity}" drawable="soul"/>
+
+    <!-- Sprouts -->
+    <item component="ComponentInfo{melandru.lonicera/melandru.lonicera.activity.launch.LaunchActivity}" drawable="sprouts"/>
+
+    <!-- TomaTodo -->
+    <item component="ComponentInfo{com.plan.kot32.tomatotime/com.plan.kot32.tomatotime.activity.SplashActivity}" drawable="tomatodo"/>
+
+    <!-- U净 -->
+    <item component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.MainActivity}" drawable="u_jing"/>
+
+    <!-- WPS_Office -->
+    <item component="ComponentInfo{com.kingsoft.moffice_pro/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wps_office"/>
+
+    <!-- WangVPN -->
+    <item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="wangvpn"/>
+
+
+
+    <!-- biubiu加速器 -->
+    <item component="ComponentInfo{com.njh.biubiu/com.njh.ping.launcher.LauncherActivity}" drawable="biubiu_jisuqi"/>
+
+    <!-- 一加社区 -->
+    <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" drawable="oneplus_bbs"/>
+
+    <!-- 一罐 -->
+    <item component="ComponentInfo{club.jijigugu.yiguan/club.jijigugu.yiguan.ui.activities.SplashActivity}" drawable="yiguan"/>
+
+    <!-- 书伴 -->
+    <item component="ComponentInfo{com.merpyzf.xmnote/com.merpyzf.xmnote.ui.SplashActivity}" drawable="shuban"/>
+
+    <!-- 墨墨背单词 -->
+    <item component="ComponentInfo{com.maimemo.android.momo/com.maimemo.android.momo.ui.MainActivity}" drawable="momobeidanci"/>
+
+    <!-- 大同词典 -->
+    <item component="ComponentInfo{com.datong.dict/com.datong.dict.module.home.HomeActivity}" drawable="datongcidian"/>
+
+    <!-- 天府通 -->
+    <item component="ComponentInfo{com.chinarainbow.tft/com.chinarainbow.tft.mvp.ui.activity.SplashActivity}" drawable="tianfutong"/>
+
+    <!-- 存储空间清理 -->
+    <item component="ComponentInfo{com.ktls.fileinfo/com.ktls.fileinfo.MainSDClear}" drawable="chucunkongjianqingli"/>
+
+    <!-- 学习通 -->
+    <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="xuexitong"/>
+
+    <!-- 幕布 -->
+    <item component="ComponentInfo{com.mubu.app/com.mubu.app.MainActivity}" drawable="mubu"/>
+
+    <!-- 慢慢买 -->
+    <item component="ComponentInfo{com.manmanbuy.bijia/com.manmanbuy.bijia.MainActivity}" drawable="manmanmai"/>
+
+    <!-- 易班 -->
+    <item component="ComponentInfo{com.yiban.app/com.yiban.app.activity.WelcomeActivity}" drawable="yiban"/>
+
+    <!-- 极速浏览器 -->
+    <item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="a_360_jisuliulanqi"/>
+
+    <!-- 欧路每日英语 -->
+    <item component="ComponentInfo{com.qianyan2.ting.en/com.eusoft.ting.ui.v2.TabActivityV2}" drawable="oulumeiriyingyu"/>
+
+    <!-- 每日英语听力 -->
+    <item component="ComponentInfo{com.eusoft.ting.en/com.eusoft.ting.ui.TabActivity}" drawable="meiriyingyutingli"/>
+
+    <!-- 神奇磁力 -->
+    <item component="ComponentInfo{com.magicmagnet/com.magicmagnet.common.SplashActivity}" drawable="shenqicili"/>
+
+    <!-- 简单读书 -->
+    <item component="ComponentInfo{com.example.txtreader/com.example.txtreader.MainActivity}" drawable="jiandandushu"/>
+
+    <!-- 网易邮箱 -->
+    <item component="ComponentInfo{com.netease.mobimail/com.netease.mobimail.activity.LaunchActivity}" drawable="netease_mail"/>
+
+    <!-- 腾讯视频极速版 -->
+    <item component="ComponentInfo{com.tencent.videolite.android/com.tencent.videolite.android.ui.HomeActivity}" drawable="tencent_video"/>
+
+    <!-- 表格背单词 -->
+    <item component="ComponentInfo{fun.tooling.excel/fun.tooling.excel.ui.MainActivity}" drawable="biaogebeidanci"/>
+
+    <!-- 西柚大姨妈 -->
+    <item component="ComponentInfo{com.menstrual.menstrualcycle/com.menstrual.menstrualcycle.WelcomeActivity}" drawable="xiyoudayima"/>
+
+    <!-- 记得 -->
+    <item component="ComponentInfo{com.pmm.remember/com.pmm.remember.ui.splash.SplashAy}" drawable="jide"/>
+
+    <!-- 轻课表 -->
+    <item component="ComponentInfo{com.ruby.timetable/com.ruby.timetable.ui.activity.StartActivity}" drawable="qingkebiao"/>
+
+    <!-- 闪电下载 -->
+    <item component="ComponentInfo{com.flash.download/com.example.dwd.myapplication.activity.SplashActivity}" drawable="shandianxiazai"/>
+
+    <!-- Asphalt_9 -->
+    <item component="ComponentInfo{com.gameloft.android.ANMP.GloftA9HM/com.gameloft.android.ANMP.GloftA9HM.MainActivity}" drawable="asphalt_9"/>
+
+
+
+    <!--    第十次更新-->
+    <!-- AdSense -->
+    <item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.ReportActivity}" drawable="adsense"/>
+
+    <!-- Aspirin -->
+    <item component="ComponentInfo{rygel.cn.aspirin/rygel.cn.aspirin.MainActivity}" drawable="aspirin"/>
+
+    <!-- Minty_Free -->
+    <item component="ComponentInfo{pl.patrykgoworowski.mintyfree/pl.patrykgoworowski.mintyfree.MainActivity}" drawable="minty_free"/>
+
+    <!-- OneUI_Circle -->
+    <item component="ComponentInfo{com.onelook.oneui.circle.iconpack/com.onelook.oneui.circle.iconpack.MainActivity}" drawable="oneui_circle"/>
+
+    <!-- Wikipedia -->
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia"/>
+
+    <!-- 知识星球 -->
+    <item component="ComponentInfo{com.unnoo.quan/com.unnoo.quan.activities.StartActivity}" drawable="zhishixingqiu"/>
+
+    <!-- 邻里WiFi密码 -->
+    <item component="ComponentInfo{com.linli.llwifi/com.linli.llwifi.activity.main.WelcomeActivity}" drawable="linli_wifi_mima"/>
+
+    <!-- 7723游戏盒 -->
+    <item component="ComponentInfo{com.upgadata.up7723/com.upgadata.up7723.main.activity.SplashActivity}" drawable="a_7723_youxihe"/>
+
+    <!-- App_Market -->
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="app_market"/>
+
+    <!-- Bigjpg_图片放大 -->
+    <item component="ComponentInfo{com.bigjpg/com.bigjpg.ui.activity.SplashActivity}" drawable="bigjpg_tupianfangda"/>
+
+    <!-- Breeno_Shortcuts -->
+    <item component="ComponentInfo{com.coloros.shortcuts/com.coloros.shortcuts.modules.main.MainActivity}" drawable="breeno_shortcuts"/>
+
+    <!-- Breeno_Voice -->
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+
+    <!-- Dear_Translate -->
+    <item component="ComponentInfo{com.youdao.translator/com.youdao.translator.activity.LaunchActivity}" drawable="dear_translate"/>
+
+    <!-- Feedback_Toolkit -->
+    <item component="ComponentInfo{com.oppo.startlogkit/com.oppo.startlogkit.MainActivity}" drawable="feedback_toolkit"/>
+
+    <!-- GIF_Master -->
+    <item component="ComponentInfo{com.didikee.gifparser/com.gif.SplashActivity}" drawable="gif_master"/>
+
+
+    <!-- HeyTap_Cloud -->
+    <item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.activity.CloudSettingsActivity}" drawable="heytap_cloud"/>
+
+    <!-- HttpCanary -->
+    <item component="ComponentInfo{com.guoshi.httpcanary/com.guoshi.httpcanary.ui.SplashActivity}" drawable="httpcanary"/>
+
+    <!-- Kustom_LWP -->
+    <item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}" drawable="kustom_lwp"/>
+
+    <!-- Kustom_Widget -->
+    <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kustom_widget"/>
+
+    <!-- Let_s -->
+    <item component="ComponentInfo{lets.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="let_s"/>
+
+    <!-- Minecraft -->
+    <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
+
+    <!-- Mini_Music_player_for_kwgt -->
+    <item component="ComponentInfo{minimusicplayerforkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="mini_music_player_for_kwgt"/>
+
+    <!-- Nova_Launcher -->
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher"/>
+
+    <!-- One_Tap_Lock_Screen -->
+    <item component="ComponentInfo{com.coloros.onekeylockscreen/com.coloros.onekeylockscreen.OppoLockScreen}" drawable="one_tap_lock_screen"/>
+
+    <!-- Perfect_Piano -->
+    <item component="ComponentInfo{com.gamestar.perfectpiano/com.gamestar.perfectpiano.Splash}" drawable="perfect_piano"/>
+
+    <!-- Photo_Editor -->
+    <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photo_editor"/>
+
+    <!-- PicACG -->
+    <item component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}" drawable="picacg"/>
+
+    <!-- QQ安全中心 -->
+    <item component="ComponentInfo{com.tencent.token/com.tencent.token.ui.LogoActivity}" drawable="qq_anquanzhongxin"/>
+
+    <!-- Rainbow_KWGT -->
+    <item component="ComponentInfo{rainbowforkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="rainbow_kwgt"/>
+
+    <!-- SIM_Card_Apps -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity2}" drawable="sim_card_apps"/>
+
+    <!-- Screen_Recording -->
+    <item component="ComponentInfo{com.coloros.screenrecorder/com.coloros.screenrecorder.MainActivity}" drawable="screen_recording"/>
+
+    <!-- ShipWrecked -->
+    <item component="ComponentInfo{com.kleientertainment.doNotStarveShipwrecked/com.game.god.FaActivity}" drawable="shipwrecked"/>
+
+    <!-- Smart_Home -->
+    <item component="ComponentInfo{com.heytap.smarthome/com.heytap.smarthome.LaunchActivity}" drawable="smart_home"/>
+
+    <!-- Soloop -->
+    <item component="ComponentInfo{com.coloros.videoeditor/com.coloros.videoeditor.SplashActivity}" drawable="soloop"/>
+
+    <!-- Tips -->
+    <item component="ComponentInfo{com.coloros.operationtips/com.coloros.operationtips.activities.WelcomeActivity}" drawable="tips"/>
+
+    <!-- Unity_Mod_Manager -->
+    <item component="ComponentInfo{io.github.xausky.unitymodmanager/io.github.xausky.unitymodmanager.MainActivity}" drawable="unity_mod_manager"/>
+
+    <!-- Videos -->
+    <item component="ComponentInfo{com.heytap.yoli/com.heytap.yoli.icon_org}" drawable="videos"/>
+
+    <!-- WangVPN -->
+    <item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="wangvpn"/>
+
+    <!-- XK_Video_Wallpaer -->
+    <item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_video_wallpaer"/>
+
+    <!-- ZArchiver_Pro -->
+    <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro"/>
+
+    <!-- 中文打字练习 -->
+    <item component="ComponentInfo{com.zerosecond.chineseinputpracticeCN/com.zerosecond.chineseinputpracticeCN.LogoSplashActivity}" drawable="zhongwendazilianxi"/>
+
+    <!-- 书城 -->
+    <item component="ComponentInfo{com.heytap.book/com.qq.reader.activity.SplashActivity}" drawable="shucheng"/>
+
+    <!-- 兽耳桌面 -->
+    <item component="ComponentInfo{com.mimikko.mimikkoui/com.mimikko.mimikkoui.launcher3.MimikkoStartActivity}" drawable="shouerzhuomian"/>
+
+    <!-- 吉里吉里2模拟器_1_3_9 -->
+    <item component="ComponentInfo{org.tvp.kirikiri2_free_10309/org.tvp.kirikiri2_free_10309.Kirikiroid2}" drawable="jilijili_2_moniqi_139"/>
+
+    <!-- 和掌桂 -->
+    <item component="ComponentInfo{com.sinovatech.gxmobile.ui/com.sinovatech.gxmobile.ui.WelcomeActivity}" drawable="zhongguoyidong"/>
+
+    <!-- 城通网盘 -->
+    <item component="ComponentInfo{com.ctfile/com.ctfile.MainActivity}" drawable="chengtongwangpan"/>
+
+    <!-- 多玩我的世界盒子 -->
+    <item component="ComponentInfo{com.duowan.groundhog.mctools/com.duowan.groundhog.mctools.activity.StarActivity}" drawable="duowanwodeshijiehezi"/>
+
+    <!-- 好游快爆 -->
+    <item component="ComponentInfo{com.xmcy.hykb/com.xmcy.hykb.app.ui.splash.SplashActivity}" drawable="haoyoukuaibao"/>
+
+    <!-- 应用宝 -->
+    <item component="ComponentInfo{com.tencent.android.qqdownloader/com.tencent.pangu.link.SplashActivity}" drawable="yingyongbao"/>
+
+    <!-- 弹琴吧吉他钢琴谱 -->
+    <item component="ComponentInfo{com.tan8/com.tan8.ui.SplashActivity}" drawable="tanqinbajitagangqinpu"/>
+
+    <!-- 我的世界 -->
+    <item component="ComponentInfo{com.tencent.tmgp.wdsj666/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
+
+    <!-- 掌上穿越火线 -->
+    <item component="ComponentInfo{com.tencent.qt.sns/com.tencent.gamehelper.ui.main.WelcomeActivity}" drawable="zhangshangchuanyuehuoxian"/>
+
+    <!-- 掌上道聚城 -->
+    <item component="ComponentInfo{com.tencent.djcity/com.tencent.djcity.activities.homepage.PortalActivity}" drawable="zhangshangdaojucheng"/>
+
+    <!-- 搜图神器 -->
+    <item component="ComponentInfo{com.example.administrator.searchpicturetool/com.example.administrator.searchpicturetool.launch.SplashEmptyActivity}" drawable="soutushenqi"/>
+
+    <!-- 死神VS火影绊整合改 -->
+    <item component="ComponentInfo{com.xuan.bleach.bvn/com.jarworld.bleach.bvn.AppEntry}" drawable="sishen_vs_huoyingbanzhenghegai"/>
+
+    <!-- 汉语拼音学习 -->
+    <item component="ComponentInfo{com.haowenkj.pinyinlearn/com.haowenkj.pinyinlearn.main.SplashActivity}" drawable="hanyupinyinxuexi"/>
+
+    <!-- 浮浮雷达 -->
+    <item component="ComponentInfo{com.kugou.shiqutouch/com.kugou.shiqutouch.activity.StartupActivity}" drawable="fufuleida"/>
+
+    <!-- 番薯小组 -->
+    <item component="ComponentInfo{com.fanshu.xiaozu/com.fanshu.daily.FSplashActivity}" drawable="fanshuxiaozu"/>
+
+    <!-- 百度贴吧 -->
+    <item component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}" drawable="baidutieba"/>
+
+    <!-- 穿越火线_枪战王者 -->
+    <item component="ComponentInfo{com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity}" drawable="chunyuehuoxian_qiangzhanwangzhe"/>
+
+    <!-- 纽扣助手 -->
+    <item component="ComponentInfo{cn.niucoo.niucooapp/cn.niucoo.niucooapp.activity.LoadingAty}" drawable="niukouzhushou"/>
+
+    <!-- 英语音标 -->
+    <item component="ComponentInfo{com.binfenyinbiao.binfen/com.binfenyinbiao.binfen.ui.activity.LogoActivity}" drawable="yingyuyinbiao"/>
+
+    <!-- 蓝奏云 -->
+    <item component="ComponentInfo{com.lanzou.gwa/com.uzmap.pkg.EntranceActivity}" drawable="lanzouyun"/>
+
+    <!-- 蓝灯专业版 -->
+    <item component="ComponentInfo{pro.com.lantern/pro.com.lantern.AppStart}" drawable="landengzhuanyeban"/>
+
+    <!-- 蔚蓝_不凡 -->
+    <item component="ComponentInfo{weilan.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="weilan_bufan"/>
+
+    <!-- 表盘自定义工具 -->
+    <item component="ComponentInfo{tech.pingx.watchface/io.dcloud.PandoraEntry}" drawable="biaopanzidingyigongju"/>
+
+    <!-- 轻音乐 -->
+    <item component="ComponentInfo{com.ajun.music/com.androlua.Welcome}" drawable="qingyinyue"/>
+
+    <!-- 酷安表情包 -->
+    <item component="ComponentInfo{com.pandecheng.coolapk.sticker/yyc.app.bqb.MainActivity}" drawable="kuanbiaoqingbao"/>
+
+    <!--    第九次更新-->
+    <!-- 360极速浏览器 -->
+    <item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="a_360_jisuliulanqi"/>
+
+    <!-- 58同城 -->
+    <item component="ComponentInfo{com.wuba/com.wuba.activity.launch.LaunchActivity}" drawable="a_58_tongcheng"/>
+
+    <!-- AnkiDroid -->
+    <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"/>
+
+    <!-- Anki_Helper -->
+    <item component="ComponentInfo{com.mmjang.ankihelper/com.mmjang.ankihelper.ui.LauncherActivity}" drawable="anki_helper"/>
+
+    <!-- AppSales -->
+    <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="appsales"/>
+
+    <!-- Card_Package -->
+    <item component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}" drawable="card_package"/>
+
+    <!-- China_Daily -->
+    <item component="ComponentInfo{com.theotino.chinadaily/com.theotino.chinadaily.CdAt}" drawable="china_daily"/>
+
+    <!-- Days_Matter -->
+    <item component="ComponentInfo{com.clover.daysmatter/com.clover.daysmatter.ui.activity.MainActivity}" drawable="days_matter"/>
+
+    <!-- FIMO -->
+    <item component="ComponentInfo{com.fimo.camera/com.fimo.camera.StartActivity}" drawable="fimo"/>
+
+    <!-- Geometric_Weather -->
+    <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}" drawable="geometric_weather"/>
+
+    <!-- Graphing_Calculator_by_Mathlab -->
+    <item component="ComponentInfo{us.mathlab.android.calc.edu/us.mathlab.android.StartActivity}" drawable="graphing_calculator_by_mathlab"/>
+
+    <!-- Greenify -->
+    <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="greenify"/>
+
+    <!-- MX_Player -->
+    <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="mx_player"/>
+
+    <!-- Market -->
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="market"/>
+
+    <!-- Metro大都会 -->
+    <item component="ComponentInfo{com.app.shanghai.metro/com.alipay.mobile.quinox.LauncherActivity}" drawable="metro_daduhui"/>
+
+    <!-- Moon_Reader_Pro -->
+    <item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moon_reader_pro"/>
+
+    <!-- Notify_Fitness_for_Mi_Band -->
+    <item component="ComponentInfo{com.mc.miband1/com.mc.miband1.ui.MainActivity}" drawable="notify_fitness_for_mi_band"/>
+
+    <!-- Nutstore -->
+    <item component="ComponentInfo{nutstore.android/nutstore.android.SplashScreen}" drawable="nutstore"/>
+
+    <!-- OLED_Saver -->
+    <item component="ComponentInfo{org.js.oledsaver/org.js.oledsaver.activity.MainActivity}" drawable="oled_saver"/>
+
+    <!-- OnePlus_Switch -->
+    <item component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" drawable="oneplus_switch"/>
+
+    <!-- Photomath -->
+    <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.LauncherActivity}" drawable="photomath"/>
+
+    <!-- Pornhub -->
+    <item component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}" drawable="pornhub"/>
+
+    <!-- Pure_Writer -->
+    <item component="ComponentInfo{com.drakeet.purewriter/com.drakeet.purewriter.WriterActivity}" drawable="pure_writer"/>
+
+    <!-- SD_Maid -->
+    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid"/>
+
+    <!-- See -->
+    <item component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.home.MainContainActivity}" drawable="see"/>
+
+    <!-- iBetter -->
+    <item component="ComponentInfo{com.clover.ibetter/com.clover.ibetter.ui.activity.MainActivity}" drawable="ibetter"/>
+
+    <!-- iDaily -->
+    <item component="ComponentInfo{com.clover.idaily/com.clover.idaily.ui.activity.MainActivity}" drawable="idaily"/>
+
+    <!-- iHour -->
+    <item component="ComponentInfo{com.clover.ihour/com.clover.ihour.ui.activity.MainActivity}" drawable="ihour"/>
+
+    <!-- v2rayNG -->
+    <item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2rayng"/>
+
+    <!-- 一句 -->
+    <item component="ComponentInfo{small.word/small.word.Hello}" drawable="yiju"/>
+
+    <!-- 上帝模式 -->
+    <item component="ComponentInfo{com.viewblocker.jrsen/com.viewblocker.jrsen.SettingsAliasActivity}" drawable="shangdimoshi"/>
+
+    <!-- 不做手机控 -->
+    <item component="ComponentInfo{com.pl.getaway.getaway/com.pl.getaway.component.Activity.welcome.SplashActivity}" drawable="buzuoshoujikong"/>
+
+    <!-- 不背单词 -->
+    <item component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}" drawable="buhuidanci"/>
+
+    <!-- 中国大学MOOC -->
+    <item component="ComponentInfo{com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome}" drawable="zhongguodaxue_mooc"/>
+
+    <!-- 今日校园 -->
+    <item component="ComponentInfo{com.wisedu.cpdaily/com.wisorg.wisedu.login.WelcomeActivity}" drawable="jinrixiaoyuan"/>
+
+    <!-- 做你的图标包 -->
+    <item component="ComponentInfo{cn.ommiao.iconpackcreator/cn.ommiao.iconpackcreator.ui.main.MainActivity}" drawable="zuonidetubiaobao"/>
+
+    <!-- 全球学术快报 -->
+    <item component="ComponentInfo{com.cnki.android.cnkimobile/com.cnki.android.cnkimoble.activity.SplashActivity}" drawable="quanqiuxueshukuaibao"/>
+
+    <!-- 博看书苑 -->
+    <item component="ComponentInfo{cn.com.bookan/com.magook.activity.SplashActivity}" drawable="bokanshuyuan"/>
+
+    <!-- 口碑 -->
+    <item component="ComponentInfo{com.taobao.mobile.dipei/com.eg.android.AlipayGphone.AlipayLogin}" drawable="koubei"/>
+
+    <!-- 古诗文网 -->
+    <item component="ComponentInfo{org.gushiwen.gushiwen/org.gushiwen.gushiwen.WelcomeActivity}" drawable="gushiwenwang"/>
+
+    <!-- 吐司单词 -->
+    <item component="ComponentInfo{com.finnegan.englishpower/com.finnegan.englishpower.activity.MainActivity}" drawable="tusidanci"/>
+
+    <!-- 吾爱破解 -->
+    <item component="ComponentInfo{top.easelink.lcg/top.easelink.lcg.ui.splash.view.SplashActivity}" drawable="wuaipojie"/>
+
+    <!-- 地铁跑酷 -->
+    <item component="ComponentInfo{com.kiloo.subwaysurf/com.kiloo.subwaysurf.GameStartActivity}" drawable="ditiepaoku"/>
+
+    <!-- 妹子图 -->
+    <item component="ComponentInfo{com.kmw.chemeizu/com.uzmap.pkg.LauncherUI}" drawable="meizitu"/>
+
+    <!-- 存储空间清理 -->
+    <item component="ComponentInfo{com.ktls.fileinfo/com.ktls.fileinfo.MainSDClear}" drawable="cunchukongjianqingli"/>
+
+    <!-- 学习通 -->
+    <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="xuexitong"/>
+
+    <!-- 密码键盘 -->
+    <item component="ComponentInfo{com.kongzue.secretinput/com.kongzue.secretinput.activity.FirstActivity}" drawable="mimajianpan"/>
+
+    <!-- 小黑屋 -->
+    <item component="ComponentInfo{web1n.stopapp/web1n.stopapp.activity.MainActivity}" drawable="xiaoheiwu"/>
+
+    <!-- 巴士管家 -->
+    <item component="ComponentInfo{com.chebada/com.chebada.main.welcome.WelcomeActivity}" drawable="bashiguanjia"/>
+
+    <!-- 开眼 -->
+    <item component="ComponentInfo{com.wandoujia.eyepetizer/com.wandoujia.eyepetizer.ui.activity.LandingActivity}" drawable="kaiyan"/>
+
+    <!-- 形色 -->
+    <item component="ComponentInfo{cn.danatech.xingseapp/com.xingse.app.pages.startup.SplashScreenActivity}" drawable="xingse"/>
+
+    <!-- 思乐 -->
+    <item component="ComponentInfo{com.sisi.musicbox/com.sisi.musicbox.MainActivity}" drawable="sile"/>
+
+    <!-- 我要自学网 -->
+    <item component="ComponentInfo{com.fzisen.app51zxw/com.fzisen.app51zxw.android.activity.LanchurActivity}" drawable="woyaozixuewang"/>
+
+    <!-- 掌上营业厅 -->
+    <item component="ComponentInfo{com.jsmcc/com.jsmcc.ui.WelcomeActivity}" drawable="zhongguoyidong"/>
+
+    <!-- 时光相册 -->
+    <item component="ComponentInfo{tc.everphoto/everphoto.ui.feature.splash.SplashActivity}" drawable="shiguangxiangce"/>
+
+    <!-- 机械社区 -->
+    <item component="ComponentInfo{com.r1359218528.ttu/com.uzmap.pkg.EntranceActivity}" drawable="jixieshequ"/>
+
+    <!-- 横屏回复辅助器 -->
+    <item component="ComponentInfo{com.en.gamehelper/com.en.gamehelper.MainActivity}" drawable="hengpinghuifufuzhuqi"/>
+
+    <!-- 欧路词典 -->
+    <item component="ComponentInfo{com.eusoft.eudic/com.eusoft.dict.activity.SplashActivity}" drawable="oulucidian"/>
+
+    <!-- 王者营地 -->
+    <item component="ComponentInfo{com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.SplashActivity}" drawable="wangzheyingdi"/>
+
+    <!-- 百度输入法 -->
+    <item component="ComponentInfo{com.baidu.input/com.baidu.input.ImeAppMainActivity}" drawable="baidushurufa"/>
+
+    <!-- 网易蜗牛读书 -->
+    <item component="ComponentInfo{com.netease.snailread/com.netease.snailread.activity.SplashActivity}" drawable="netease_woniuyuedu"/>
+
+    <!-- 考研帮 -->
+    <item component="ComponentInfo{com.tal.kaoyan/com.tal.kaoyan.ui.activity.SplashActivity}" drawable="kaoyanbang"/>
+
+    <!-- 聚书 -->
+    <item component="ComponentInfo{com.kindle.robin/com.androlua.Welcome}" drawable="jushu"/>
+
+    <!-- 自动跳过 -->
+    <item component="ComponentInfo{me.angeldevil.autoskip/me.angeldevil.autoskip.Launcher}" drawable="zidongtiaoguo"/>
+
+    <!-- 英语阅读 -->
+    <item component="ComponentInfo{com.iyuba.englishread/com.iyuba.headnews.activity.WelcomeActivity}" drawable="yingyuyuedu"/>
+
+    <!-- 表格背单词 -->
+    <item component="ComponentInfo{fun.tooling.excel/fun.tooling.excel.ui.MainActivity}" drawable="biaogebeidanci"/>
+
+    <!-- 解压缩全能王 -->
+    <item component="ComponentInfo{com.cjtec.uncompress/com.cjtec.uncompress.ui.activity.FileListActivity}" drawable="jiayasuoquannengwang"/>
+
+    <!-- 词根词缀字典 -->
+    <item component="ComponentInfo{com.ghosun.dict/com.ghosun.dict.Welcome}" drawable="cigencizhuizidian"/>
+
+    <!-- 轻听英语 -->
+    <item component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}" drawable="qingtingyingyu"/>
+
+    <!-- 酷我音乐 -->
+    <item component="ComponentInfo{cn.kuwo.player/cn.kuwo.player.activities.EntryActivity}" drawable="kuwoyinyue"/>
+
+    <!-- 金山词霸 -->
+    <item component="ComponentInfo{com.kingsoft/com.kingsoft.NewStartActivity}" drawable="jinshanciba"/>
+
+    <!-- 雨见浏览器 -->
+    <item component="ComponentInfo{com.yujian.ResideMenuDemo/cn.yujian.browser.ui.activities.HomeActivity}" drawable="yujianliulanqi"/>
+
+    <!-- Smart_Kit -->
+    <item component="ComponentInfo{com.kafuiutils/com.kafuiutils.KafuiUtils}" drawable="smart_kit"/>
+    <!--    第八次更新-->
+
+
+
+
+
+    <!-- MIX -->
+    <item component="ComponentInfo{com.pinguo.edit.sdk/us.pinguo.mix.modules.splash.SplashActivity}" drawable="mix"/>
+
+    <!-- 一加社区 -->
+    <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" drawable="oneplus_bbs"/>
+
+    <!-- 白马地图 -->
+    <item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity3}" drawable="baimaditu"/>
+
+    <!-- 粉笔 -->
+    <item component="ComponentInfo{com.fenbi.android.servant/com.fenbi.android.uni.activity.portal.WelcomeActivity}" drawable="fenbi"/>
+
+    <!-- 万年历 -->
+    <item component="ComponentInfo{com.youloft.calendar/com.youloft.LauncherActivity}" drawable="wannianli"/>
+
+    <!--    第七次更新-->
+    <!-- BUFF -->
+    <item component="ComponentInfo{com.netease.buff163/com.netease.buff.entry.SplashActivity}" drawable="buff"/>
+
+
+
+    <!-- CandyCons -->
+    <item component="ComponentInfo{com.zavukodlak.candycons/com.zavukodlak.candycons.MainActivity}" drawable="candycons"/>
+
+    <!-- FlashFox -->
+    <item component="ComponentInfo{mobi.browser.flashfox/mobi.browser.flashfox.App}" drawable="flashfox"/>
+
+    <!-- Pixel_Icon_Pack -->
+    <item component="ComponentInfo{ru.pt.iconpack.pixel/ru.pt.iconpack.pixel.activities.Check_GDPR}" drawable="pixel_icon_pack"/>
+
+    <!-- Puffin -->
+    <item component="ComponentInfo{com.cloudmosa.puffinFree/com.cloudmosa.app.LemonActivity}" drawable="puffin"/>
+
+    <!-- Sorcery_Icons -->
+    <item component="ComponentInfo{com.sorcerer.sorcery.iconpack/com.sorcerer.sorcery.iconpack.MainActivity}" drawable="sorcery_icons"/>
+
+    <!-- WiFi_Master_Key -->
+    <item component="ComponentInfo{com.halo.wifikey.wifilhook/com.lantern.launcher.ui.MainActivityICS}" drawable="wifi_master_key"/>
+
+    <!-- 一梦江湖 -->
+    <item component="ComponentInfo{com.netease.wyclx/com.netease.game.MessiahNativeActivity}" drawable="yimengjianghu"/>
+
+    <!-- 决战_平安京 -->
+    <item component="ComponentInfo{com.netease.moba/com.netease.g78.Launcher}" drawable="juezhan_pinganjing"/>
+
+    <!-- 梦幻西游 -->
+    <item component="ComponentInfo{com.netease.my/com.netease.my.Launcher}" drawable="menghuanxiyou"/>
+
+    <!-- 神魔劫 -->
+    <item component="ComponentInfo{com.netease.mhqn/com.netease.mhqn.H7}" drawable="shenmojie"/>
+
+    <!-- 积目 -->
+    <item component="ComponentInfo{com.fenzotech.jimu/com.eomchat.module.splash.SplashActivity}" drawable="jimu"/>
+
+    <!-- 网易帐号管家 -->
+    <item component="ComponentInfo{com.netease.urs.android.accountmanager/com.netease.urs.android.accountmanager.activity.StartupActivity}" drawable="netease_zhanghaoguanjia"/>
+
+    <!-- 网易游戏助手 -->
+    <item component="ComponentInfo{com.netease.gameservice/com.netease.gameservice.StartActivity}" drawable="netease_youxizhushou"/>
+
+    <!-- 网易游戏论坛 -->
+    <item component="ComponentInfo{com.netease.gameforums/com.netease.gameforums.app.StartActivity}" drawable="netease_gamebbs"/>
+
+    <!-- 网易邮箱 -->
+    <item component="ComponentInfo{com.netease.mobimail/com.netease.mobimail.activity.LaunchActivity}" drawable="netease_mail"/>
+
+    <!-- 腾讯地图 -->
+    <item component="ComponentInfo{com.tencent.map/com.tencent.map.WelcomeActivity}" drawable="tencent_ditu"/>
+
+    <!-- 邮箱大师 -->
+    <item component="ComponentInfo{com.netease.mail/com.netease.mobimail.activity.LaunchActivity}" drawable="netease_youxiangdashi"/>
+
+    <!-- 非人学园 -->
+    <item component="ComponentInfo{com.netease.frxy/com.netease.frxy.Launcher}" drawable="feirenxueyuan"/>
+
+    <!-- Breeno_Voice -->
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+
+    <!-- Card_Package -->
+    <item component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}" drawable="card_package"/>
+
+    <!-- Kustom_Widget -->
+    <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kustom_widget"/>
+
+    <!-- Market -->
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="market"/>
+
+    <!-- Minecraft -->
+    <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
+
+    <!-- OnePlus_Switch -->
+    <item component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" drawable="oneplus_switch"/>
+
+    <!-- Raven图标包 -->
+    <item component="ComponentInfo{com.raven.iconpack/com.raven.iconpack.MainActivity}" drawable="raven_tubiaobao"/>
+
+
+    <!-- ScanScan -->
+    <item component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}" drawable="scanscan"/>
+
+    <!-- WangVPN -->
+    <item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="wangvpn"/>
+
+
+    <!-- cleanJune -->
+    <item component="ComponentInfo{june5.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="cleanjune"/>
+
+    <!-- 一加社区 -->
+    <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" drawable="oneplus_bbs"/>
+
+    <!-- 密码键盘 -->
+    <item component="ComponentInfo{com.kongzue.secretinput/com.kongzue.secretinput.activity.FirstActivity}" drawable="mimajianpan"/>
+
+    <!-- 我的世界 -->
+    <item component="ComponentInfo{com.netease.mc.nearme.gamecenter/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
+
+    <!-- 王者营地 -->
+    <item component="ComponentInfo{com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.SplashActivity}" drawable="wangzheyingdi"/>
+
+    <!-- 知到 -->
+    <item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.jpush.OutLineActivity}" drawable="zhidao"/>
+
+    <!-- 腾讯会议 -->
+    <item component="ComponentInfo{com.tencent.wemeet.app/com.tencent.wemeet.app.StartupActivity}" drawable="tencent_wemeet"/>
+
+    <!-- 钱迹 -->
+    <item component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}" drawable="qianji"/>
+    <!--第6次更新    -->
+
+    <!-- AEM_Forms -->
+    <item component="ComponentInfo{com.adobe.aem.forms/com.adobe.aem.forms.MWSAndroid}" drawable="aem_forms"/>
+
+    <!-- AEM_Preflight -->
+    <item component="ComponentInfo{com.adobe.dps.preflight/com.adobe.dps.viewer.preflightview.PreflightLoginActivity}" drawable="aem_preflight"/>
+
+    <!-- Adobe_Acrobat -->
+    <item component="ComponentInfo{com.adobe.reader.intune/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat_intune"/>
+
+    <!-- Adobe_Captivate_Prime -->
+    <item component="ComponentInfo{com.adobe.captivateprime/md57b6be88c70fe76ec34b830e1d26f5ba4.SplashActivity}" drawable="adobe_captivate_prime"/>
+
+    <!-- Adobe_Capture -->
+    <item component="ComponentInfo{com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity}" drawable="adobe_capture"/>
+
+    <!-- Adobe_Comp -->
+    <item component="ComponentInfo{com.adobe.comp/com.adobe.comp.activities.SplashScreenActivity}" drawable="adobe_comp"/>
+
+    <!-- Adobe_Digital_Editions -->
+    <item component="ComponentInfo{com.adobe.digitaleditions/com.adobe.reader.ReaderMainActivity}" drawable="adobe_digital_editions"/>
+
+    <!-- Adobe_Draw -->
+    <item component="ComponentInfo{com.adobe.creativeapps.draw/com.adobe.creativeapps.draw.activity.SplashActivity}" drawable="adobe_draw"/>
+
+    <!-- Adobe_Fill_Sign -->
+    <item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobe_fill_sign"/>
+
+    <!-- Adobe_Photoshop_Mix -->
+    <item component="ComponentInfo{com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity}" drawable="adobe_photoshop_mix"/>
+
+    <!-- Adobe_Photoshop_Sketch -->
+    <item component="ComponentInfo{com.adobe.creativeapps.sketch/com.adobe.creativeapps.sketch.activity.SplashScreenActivity}" drawable="adobe_photoshop_sketch"/>
+
+    <!-- Adobe_Scan -->
+    <item component="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}" drawable="adobe_scan"/>
+
+    <!-- Adobe_Scout -->
+    <item component="ComponentInfo{com.adobe.monocle.companion/com.adobe.monocle.companion.MonocleCompanionActivity}" drawable="adobe_scout"/>
+
+    <!-- Adobe_Sign -->
+    <item component="ComponentInfo{com.adobe.echosign/com.adobe.echosign.ui.ASLauncherActivity}" drawable="adobe_sign"/>
+
+    <!-- Authenticator -->
+    <item component="ComponentInfo{com.adobe.ims.push.android/com.adobe.ims.push.android.activity.SplashActivity}" drawable="adobe_authenticator"/>
+
+    <!-- Connect -->
+    <item component="ComponentInfo{air.com.adobe.connectpro/air.com.adobe.connectpro.AppEntry}" drawable="connect"/>
+
+    <!-- Lightroom -->
+    <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="lightroom"/>
+
+    <!-- NetEase_News -->
+    <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.newAd.AdActivity}" drawable="netease_news"/>
+
+    <!-- PhoneGap -->
+    <item component="ComponentInfo{com.adobe.phonegap.app/com.adobe.phonegap.app.MainActivity}" drawable="phonegap"/>
+
+    <!-- Photoshop_Express -->
+    <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="photoshop_express"/>
+
+
+    <!-- Rush -->
+    <item component="ComponentInfo{com.adobe.premiererush.videoeditor/com.adobe.rush.splashscreen.controllers.SplashScreenActivity}" drawable="rush"/>
+
+    <!-- Spark_Post -->
+    <item component="ComponentInfo{com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity}" drawable="spark_post"/>
+
+    <!-- Summit_2019 -->
+    <item component="ComponentInfo{com.adobe.conference.emeasummit/com.adobe.conference.emeasummit.MainActivity}" drawable="summit_2019"/>
+
+    <!-- Tetris -->
+    <item component="ComponentInfo{com.n3twork.tetris/com.n3twork.NWUnityPlayerActivity}" drawable="tetris_one"/>
+
+    <!-- WeiboIntl -->
+    <item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibointl"/>
+
+
+    <!--    第五次更新-->
+
+    <!-- Airbnb -->
+    <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}" drawable="airbnb"/>
+
+    <!-- AliWork -->
+    <item component="ComponentInfo{com.alibaba.work.android/com.alibaba.work.android.activity.NewSplashActivity}" drawable="aliwork"/>
+
+    <!-- Alilang -->
+    <item component="ComponentInfo{com.alibaba.android.security.activity/com.aliwork.alilang.activity.SplashActivity}" drawable="alilang"/>
+
+    <!-- BeautyCam -->
+    <item component="ComponentInfo{com.meitu.meiyancamera/com.meitu.meiyancamera.MyxjActivity}" drawable="beautycam"/>
+
+    <!-- Breeno_Voice -->
+    <item component="ComponentInfo{com.coloros.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+
+    <!-- Clone_Phone -->
+    <item component="ComponentInfo{com.coloros.backuprestore/com.coloros.phoneclone.PhoneCloneMainActivity}" drawable="clone_phone"/>
+
+    <!-- Dianping -->
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.LaunchActivity}" drawable="dianping"/>
+
+    <!-- Foodie -->
+    <item component="ComponentInfo{com.linecorp.foodcamcn.android/com.linecorp.foodcam.android.camera.CameraActivity}" drawable="foodie"/>
+
+    <!-- Kindle阅读 -->
+    <item component="ComponentInfo{com.amazon.kindlefc/com.amazon.kindlefc.KfcUpgradePage}" drawable="kindle_yuedu"/>
+
+    <!-- Mobike -->
+    <item component="ComponentInfo{com.mobike.mobikeapp/com.mobike.mobikeapp.splash.SplashActivity}" drawable="mobike"/>
+
+    <!-- MyWeather -->
+    <item component="ComponentInfo{com.clover.myweather/com.clover.myweather.ui.activity.MainActivity}" drawable="myweather"/>
+
+    <!-- My_OPPO -->
+    <item component="ComponentInfo{com.oppo.usercenter/com.oppo.usercenter.vip.UCVIPMainActivity}" drawable="my_oppo"/>
+
+    <!-- Notes -->
+    <item component="ComponentInfo{com.nearme.note/com.nearme.note.view.AllNoteActivity}" drawable="oppo_notes"/>
+
+    <!-- OPPO -->
+    <item component="ComponentInfo{com.oppo.community/com.oppo.community.InitActivity}" drawable="oppo"/>
+
+    <!-- ORoaming -->
+    <item component="ComponentInfo{com.redteamobile.roaming/com.redteamobile.roaming.MainActivity}" drawable="oroaming"/>
+
+    <!-- Ps_Play -->
+    <item component="ComponentInfo{com.tencent.isux.psplay/com.tencent.isux.psplay.SplashActivity}" drawable="ps_play"/>
+
+    <!-- Remote_Guard -->
+    <item component="ComponentInfo{com.coloros.familyguard/com.coloros.familyguard.FakeActivity}" drawable="remote_guard"/>
+
+    <!-- SIM_Toolkit -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity1}" drawable="oppo_sim_toolkit"/>
+
+    <!-- Timi记账 -->
+    <item component="ComponentInfo{com.talicai.timiclient/com.talicai.timiclient.ui.SplashActivity}" drawable="timi_jizhang"/>
+
+    <!-- Videos -->
+    <item component="ComponentInfo{com.coloros.yoli/com.heytap.yoli.icon_org}" drawable="videos"/>
+
+
+    <!-- Zhumu -->
+    <item component="ComponentInfo{com.suirui.zhumu/com.zipow.videobox.LauncherActivity}" drawable="zhumu"/>
+
+    <!-- iPSA -->
+    <item component="ComponentInfo{com.isoftstone.client.ipsa/com.isoftstone.ipsa.app.activity.SplashActivity}" drawable="ipsa"/>
+
+    <!-- 乐刻运动 -->
+    <item component="ComponentInfo{com.leoao.fitness/com.leoao.fitness.main.SplashActivity}" drawable="lekeyundong"/>
+
+    <!-- 全民K歌 -->
+    <item component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.module.splash.ui.SplashBaseActivity}" drawable="quanmin_k_ge"/>
+
+    <!-- 全民电视直播 -->
+    <item component="ComponentInfo{org.fungo.fungolive/org.stagex.danmaku.activity.SplashActivity}" drawable="quanmindianshizhibo"/>
+
+    <!-- 全球购骑士特权 -->
+    <item component="ComponentInfo{com.black.unique/com.black.unique.feature.home.HomeActivity}" drawable="quanqiugouqishitequan"/>
+
+    <!-- 北京公交 -->
+    <item component="ComponentInfo{com.tianlutech.ebus/com.tuspass.concierge.activity.SplashActivity}" drawable="beijinggongjiao"/>
+
+    <!-- 北京移动 -->
+    <item component="ComponentInfo{com.bmcc.ms.ui/com.bmcc.ms.ui.Entrance2Activity}" drawable="zhongguoyidong"/>
+
+    <!-- 南方航空 -->
+    <item component="ComponentInfo{com.csair.mbp/com.csair.mbp.launcher.WelcomeActivity}" drawable="nanfanghangkong"/>
+
+    <!-- 去哪儿旅行 -->
+    <item component="ComponentInfo{com.Qunar/com.mqunar.splash.SplashActivity}" drawable="qunaerlvxing"/>
+
+    <!-- 叮咚买菜 -->
+    <item component="ComponentInfo{com.yaya.zone/com.yaya.zone.activity.SplashActivity}" drawable="dingdongmaicai"/>
+
+    <!-- 叮当快药 -->
+    <item component="ComponentInfo{com.ddsy.songyao/com.ddsy.songyao.activity.SplashActivity}" drawable="dingdangkuaiyao"/>
+
+    <!-- 周末去哪儿 -->
+    <item component="ComponentInfo{com.xisue.zhoumo/com.xisue.zhoumo.ui.activity.StartActivity}" drawable="zhoumoqunaer"/>
+
+    <!-- 喵街 -->
+    <item component="ComponentInfo{com.taobao.shoppingstreets/com.taobao.shoppingstreets.activity.LoadDexActivity}" drawable="miaojie"/>
+
+    <!-- 嘀嗒出行 -->
+    <item component="ComponentInfo{com.didapinche.booking/com.didapinche.booking.home.activity.StartActivity}" drawable="didachuxing"/>
+
+    <!-- 大麦 -->
+    <item component="ComponentInfo{cn.damai/cn.damai.launcher.splash.SplashMainActivity}" drawable="damai"/>
+
+    <!-- 好省 -->
+    <item component="ComponentInfo{com.xiaoshijie.sqb/com.haosheng.modules.coupon.view.activity.SplashActivity}" drawable="haosheng"/>
+
+    <!-- 小游戏 -->
+    <item component="ComponentInfo{com.nearme.play/com.nearme.play.module.others.launcher.LauncherActivity}" drawable="xiaoyouxi"/>
+
+    <!-- 小猪 -->
+    <item component="ComponentInfo{com.xiaozhu.xzdz/com.xiaozhu.xzdz.main.XZLauncher_XZAlias0}" drawable="xiaozhu"/>
+
+
+
+    <!-- 快方送药 -->
+    <item component="ComponentInfo{com.kf.kuaifang/com.kf.kuaifang.LaunchActivity}" drawable="kuaifangsongyao"/>
+
+    <!-- 折买 -->
+    <item component="ComponentInfo{com.cosji.activitys/com.cosji.activitys.zhemaiActivitys.WelcomeActivity}" drawable="zhemai"/>
+
+    <!-- 掌上生活 -->
+    <item component="ComponentInfo{com.cmbchina.ccd.pluto.cmbActivity/com.cmbchina.ccd.pluto.cmbActivity.SplashActivity}" drawable="zhangshangshenghuo"/>
+
+    <!-- 搜狐视频 -->
+    <item component="ComponentInfo{com.sohu.sohuvideo/com.sohu.sohuvideo.ui.homepage.MainActivity}" drawable="souhushipin"/>
+
+    <!-- 斑马会员 -->
+    <item component="ComponentInfo{com.banma/com.banma_life.ui.activity.WelcomActivity}" drawable="banmahuiyuan"/>
+
+    <!-- 杭工e家 -->
+    <item component="ComponentInfo{com.zjte.hanggongefamily/com.zjte.hanggongefamily.home.activity.SplashActivity}" drawable="hanggong_e_jia"/>
+
+    <!-- 测测星座 -->
+    <item component="ComponentInfo{com.xxwolo.cc5/com.xxwolo.cc.start.view.StartActivity}" drawable="cecexingzuo"/>
+
+    <!-- 浙江预约挂号 -->
+    <item component="ComponentInfo{com.zjrc.yygh/com.zjrc.yygh.activity.SplashActivity}" drawable="zhejiangyuyueguahao"/>
+
+    <!-- 浙里办 -->
+    <item component="ComponentInfo{com.hanweb.android.zhejiang.activity/com.alipay.mobile.quinox.LauncherActivity}" drawable="zheliban"/>
+
+    <!-- 浦发银行 -->
+    <item component="ComponentInfo{cn.com.spdb.mobilebank.per/cn.com.spdb.mobilebank.per.activity.SplashActivity}" drawable="pufayinhang"/>
+
+    <!-- 玩吧 -->
+    <item component="ComponentInfo{com.wodi.who/com.wodi.who.main.activity.SplashActivity}" drawable="wanba"/>
+
+    <!-- 瓜子二手车 -->
+    <item component="ComponentInfo{com.ganji.android.haoche_c/com.ganji.android.haoche_c.ui.main.MainActivity}" drawable="guaziershouche"/>
+
+    <!-- 网易有道词典 -->
+    <item component="ComponentInfo{com.youdao.dict/com.youdao.dict.activity.DictSplashActivity}" drawable="netease_youdaocidian"/>
+
+    <!-- 美团民宿 -->
+    <item component="ComponentInfo{com.meituan.phoenix/com.meituan.phoenix.guide.SplashActivity}" drawable="meituanminsu"/>
+
+    <!-- 脉脉 -->
+    <item component="ComponentInfo{com.taou.maimai/com.taou.maimai.SplashActivity}" drawable="maimai"/>
+
+    <!-- 自如 -->
+    <item component="ComponentInfo{com.ziroom.ziroomcustomer/com.ziroom.ziroomcustomer.WelcomeActivity}" drawable="ziru"/>
+
+    <!-- 艺龙旅行 -->
+    <item component="ComponentInfo{com.dp.android.elong/com.elong.activity.others.AppGuidActivity}" drawable="yilonglvxing"/>
+
+    <!-- 芒果TV -->
+    <item component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.SplashActivity}" drawable="mangguo_tv"/>
+
+    <!-- 蚂蚁短租 -->
+    <item component="ComponentInfo{com.mayi.android.shortrent/com.tujia.hotel.main.StartActivity}" drawable="mayiduanzu"/>
+
+    <!-- 贝壳找房 -->
+    <item component="ComponentInfo{com.lianjia.beike/com.homelink.android.SplashScreenActivity}" drawable="beikezhaofang"/>
+
+    <!-- 转转 -->
+    <item component="ComponentInfo{com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity}" drawable="zhuanzhuan"/>
+
+    <!-- 途家民宿 -->
+    <item component="ComponentInfo{com.tujia.hotel/com.tujia.hotel.main.StartActivity}" drawable="tujiaminsu"/>
+
+    <!-- 途牛旅游 -->
+    <item component="ComponentInfo{com.tuniu.app.ui/com.tuniu.app.ui.homepage.LaunchActivity}" drawable="tuniulvyou"/>
+
+    <!-- 邮储银行 -->
+    <item component="ComponentInfo{com.yitong.mbank.psbc/com.yitong.mbank.psbc.android.activity.SplashActivity}" drawable="youchuyinhang"/>
+
+    <!-- 铁友火车票 -->
+    <item component="ComponentInfo{com.tieyou.train.ark/com.zt.main.entrance.ZTLaunchActivity}" drawable="tieyouhuochepiao"/>
+
+    <!-- 阅读 -->
+    <item component="ComponentInfo{com.oppo.reader/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="oppo_yuedu"/>
+
+    <!-- 饿了么星选 -->
+    <item component="ComponentInfo{com.baidu.lbs.waimai/com.baidu.lbs.waimai.SplashActivity}" drawable="elemexingxuan"/>
+
+
+    <!--第四次更新-->
+
+    <!-- Autodesk_SketchBook -->
+    <item component="ComponentInfo{com.adsk.sketchbook/com.adsk.sketchbook.SketchBook}" drawable="autodesk_sketchbook"/>
+
+
+    <!-- Blend_It_3D -->
+    <item component="ComponentInfo{com.blendergame.smash/com.unity3d.player.UnityPlayerActivity}" drawable="blend_it_3d"/>
+
+    <!-- Brain_Test -->
+    <item component="ComponentInfo{com.unicostudio.braintest/com.google.firebase.MessagingUnityPlayerActivity}" drawable="brain_test"/>
+
+    <!-- Bumble -->
+    <item component="ComponentInfo{com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity}" drawable="bumble"/>
+
+    <!-- Clash_Royale -->
+    <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.titan.GameApp}" drawable="clash_royale"/>
+
+    <!-- Coinbase -->
+    <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase"/>
+
+    <!-- Community -->
+    <item component="ComponentInfo{org.chromium.webapk.aebf9baa5a5ba0085/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="community"/>
+
+    <!-- Dark_Dungeon_Survival_Pro -->
+    <item component="ComponentInfo{me.dream.lophisroguelikepro/com.fattoy.game.MyActivity}" drawable="dark_dungeon_survival_pro"/>
+
+    <!-- Discord -->
+    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord"/>
+
+    <!-- Draw_Climber -->
+    <item component="ComponentInfo{com.appadvisory.drawclimber/com.appadvisory.drawclimber.UnityPlayerActivity}" drawable="draw_climber"/>
+
+    <!-- Fandango -->
+    <item component="ComponentInfo{com.fandango/com.fandango.Fandango}" drawable="fandango"/>
+
+    <!-- Glitch_Lab -->
+    <item component="ComponentInfo{com.ilixa.glitch/com.ilixa.glitch.GlitchActivity}" drawable="glitch_lab"/>
+
+    <!-- HBO_NOW -->
+    <item component="ComponentInfo{com.hbo.hbonow/com.hbo.go.LaunchActivity}" drawable="hbo_now"/>
+
+    <!-- MeetMe -->
+    <item component="ComponentInfo{com.myyearbook.m/com.myyearbook.m.activity.LaunchActivity}" drawable="meetme"/>
+
+    <!-- MyMuseum -->
+    <item component="ComponentInfo{jp.oridio.museum/jp.oridio.museum.AdsActivity}" drawable="mymuseum"/>
+
+    <!-- News_Break -->
+    <item component="ComponentInfo{com.particlenews.newsbreak/com.hipu.yidian.ui.guide.UserGuideActivity}" drawable="news_break"/>
+
+    <!-- Night_of_the_Full_Moon -->
+    <item component="ComponentInfo{com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch}" drawable="night_of_the_full_moon"/>
+
+
+    <!-- Pandora -->
+    <item component="ComponentInfo{com.pandora.android/com.pandora.android.LauncherActivity}" drawable="pandora"/>
+
+    <!-- Perfect_Cream -->
+    <item component="ComponentInfo{com.playgendary.creamaster/com.lllibset.LLActivity.LLActivity}" drawable="perfect_cream"/>
+
+    <!-- Phonograph -->
+    <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph"/>
+
+    <!-- Pokémon_GO -->
+    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go"/>
+
+    <!-- SmartNews -->
+    <item component="ComponentInfo{jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity}" drawable="smartnews"/>
+
+    <!-- Spiral_Roll -->
+    <item component="ComponentInfo{com.Celltop.SpiralRoll/com.Celltop.SpiralRoll.MainActivity}" drawable="spiral_roll"/>
+
+    <!-- Tango -->
+    <item component="ComponentInfo{com.sgiggle.production/com.sgiggle.production.SplashScreen}" drawable="tango"/>
+
+    <!-- TikTok -->
+    <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyin"/>
+
+    <!-- Tinder -->
+    <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder"/>
+
+    <!-- Tiny_Rails -->
+    <item component="ComponentInfo{com.tinytitanstudios.TrainChu/com.unity3d.player.UnityPlayerActivity}" drawable="tiny_rails"/>
+
+    <!-- TurboTax -->
+    <item component="ComponentInfo{com.intuit.turbotax.mobile/com.intuit.turbotaxuniversal.startup.activity.StartUpActivity}" drawable="turbotax"/>
+
+    <!-- UNICORN -->
+    <item component="ComponentInfo{com.appcraft.unicorn/com.appcraft.unicorn.activity.MainActivity}" drawable="unicorn"/>
+
+    <!-- WesternUnion -->
+    <item component="ComponentInfo{com.westernunion.android.mtapp/com.westernunion.moneytransferr3app.MainActivity}" drawable="westernunion"/>
+
+    <!-- Zoom -->
+    <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
+
+    <!-- android_support_multidex_MultiDexApplication -->
+    <item component="ComponentInfo{com.devsisters.icepixel.tapeit/com.devsisters.tapeit.AppActivity}" drawable="android_support_multidex_multidexapplication"/>
+
+    <!-- HandShaker -->
+    <item component="ComponentInfo{com.smartisanos.smartfolder.aoa/com.smartisanos.smartfolder.aoa.MainActivity}" drawable="smartisan_handshaker"/>
+
+    <!-- HandinHand -->
+    <item component="ComponentInfo{com.smartisanos.handinhand/com.smartisanos.handinhand.activity.HomeActivity}" drawable="smartisan_handinhand"/>
+
+
+    <!-- One_Step -->
+    <item component="ComponentInfo{com.smartisanos.sidebar/com.smartisanos.sidebar.setting.SettingActivity}" drawable="smartisan_one_step"/>
+
+    <!-- Sara -->
+    <item component="ComponentInfo{com.smartisanos.sara/com.smartisanos.sara.bubble.SettingActivity}" drawable="smartisan_sara"/>
+
+    <!-- Screen_Recording -->
+    <item component="ComponentInfo{com.smartisanos.screenrecorder/com.smartisanos.screenrecorder.EmptyActivity}" drawable="smartisan_screen_recording"/>
+
+    <!-- Search -->
+    <item component="ComponentInfo{com.smartisanos.quicksearch/com.android.quicksearchbox.SearchActivity}" drawable="smartisan_search"/>
+
+    <!-- Smartisan_Store -->
+    <item component="ComponentInfo{com.smartisan.smartisanstore/com.smartisan.smartisanstore.activities.SplashActivity}" drawable="smartisan_store"/>
+
+    <!-- Smiling_Cloud -->
+    <item component="ComponentInfo{com.smartisanos.cloudsync/com.smartisanos.cloudsync.AccountsActivityLauncher}" drawable="smartisan_smiling_cloud"/>
+
+    <!-- Tutorials -->
+    <item component="ComponentInfo{com.smartisanos.handbook/com.smartisanos.handbook.activity.MainActivity}" drawable="smartisan_tutorials"/>
+
+
+    <!-- 咪萌桌面宠物 -->
+    <item component="ComponentInfo{com.dreamtd.kjshenqi/com.dreamtd.kjshenqi.activity.LauncherActivity}" drawable="mimengzhuomianchongwu"/>
+
+    <!-- 安全教育平台 -->
+    <item component="ComponentInfo{com.jzzs.ParentsHelper/com.jzzs.ParentsHelper.WelcomeActivity}" drawable="anquanjiaoyupingtai"/>
+
+    <!-- 快手小游戏 -->
+    <item component="ComponentInfo{com.kwai.sogame/com.kwai.sogame.combus.launch.SogameMainActivity}" drawable="kuaishouxiaoyouxi"/>
+
+    <!-- 手机营业厅 -->
+    <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="shoujiyingyeting"/>
+
+    <!-- 腾讯手机管家 -->
+    <item component="ComponentInfo{com.tencent.qqpimsecure/com.tencent.server.fore.QuickLoadActivity}" drawable="tencent_shoujiguanjia"/>
+
+    <!--第三次更新-->
+
+
+    <!-- Aegis -->
+    <item component="ComponentInfo{com.mokee.aegis/com.mokee.aegis.activity.MainActivity}" drawable="aegis"/>
+
+    <!-- AudioFX -->
+    <item component="ComponentInfo{org.mokee.audiofx/org.mokee.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
+
+
+    <!-- Lawnchair -->
+    <item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair"/>
+
+    <!-- Lawnchair -->
+    <item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair_settings"/>
+
+    <!-- MoKee_Center -->
+    <item component="ComponentInfo{com.mokee.center/com.mokee.center.activity.MainActivity}" drawable="mokee_center"/>
+
+    <!-- Phonograph -->
+    <item component="ComponentInfo{com.kabouzeid.gramophone.mokee/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="mk_phonograph"/>
+
+    <!-- WarpShare -->
+    <item component="ComponentInfo{org.mokee.warpshare/org.mokee.warpshare.MainActivity}" drawable="warpshare"/>
+
+    <!-- 讯飞输入法 -->
+    <item component="ComponentInfo{com.iflytek.inputmethod.googleplay/com.iflytek.inputmethod.LauncherActivity}" drawable="xunfeishurufa"/>
+
+    <!--    第二次更新-->
+
+    <!-- 360儿童卫士 -->
+    <item component="ComponentInfo{com.qihoo360.antilostwatch/com.qihoo.kids.watch.im.boot.MainActivity}" drawable="a_360_ertongweishi"/>
+
+    <!-- B612咔叽 -->
+    <item component="ComponentInfo{com.campmobile.snowcamera/com.linecorp.b612.android.activity.ActivityCamera}" drawable="b612_kaji"/>
+
+    <!-- EasyShare -->
+    <item component="ComponentInfo{com.vivo.easyshare/com.vivo.easyshare.activity.SplashScreenActivity}" drawable="easyshare"/>
+
+    <!-- Feedback -->
+    <item component="ComponentInfo{com.bbk.iqoo.feedback/com.bbk.iqoo.feedback.activities.UserFeedBackActivity}" drawable="feedback"/>
+
+    <!-- Jovi_Home -->
+    <item component="ComponentInfo{com.vivo.vhome/com.vivo.vhome.ui.SplashActivity}" drawable="jovi_home"/>
+
+    <!-- Keep -->
+    <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="keep"/>
+    <!-- Kids_Mode -->
+    <item component="ComponentInfo{com.vivo.childrenmode/com.vivo.childrenmode.activity.ChildHomeActivity}" drawable="kids_mode"/>
+    <!-- Lock -->
+    <item component="ComponentInfo{com.android.bbk.lockscreen3/com.android.bbk.lockscreen3.LockScreenActivity}" drawable="lock"/>
+    <!-- Meitu -->
+    <item component="ComponentInfo{com.mt.mtxx.mtxx/com.mt.mtxx.mtxx.TopViewActivity}" drawable="meitu"/>
+    <!-- Meituan -->
+    <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome}" drawable="meituan"/>
+    <!-- Mi_Fit -->
+    <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mi_fit"/>
+
+    <!-- O2Cam -->
+    <item component="ComponentInfo{com.meitu.oxygen/com.meitu.oxygen.selfie.activity.SelfieCameraActivity}" drawable="o2cam"/>
+    <!-- PICOOC -->
+    <item component="ComponentInfo{com.picooc/com.picooc.activity.start.WelcomeActivity}" drawable="picooc"/>
+
+    <!-- QQ同步助手 -->
+    <item component="ComponentInfo{com.tencent.qqpim/com.tencent.qqpim.ui.QQPimAndroid}" drawable="qq_sync"/>
+
+    <!-- RiZa -->
+    <item component="ComponentInfo{com.mendon.riza/com.mendon.riza.app.launch.LaunchActivity}" drawable="riza"/>
+    <!-- VUE_Vlog -->
+    <item component="ComponentInfo{video.vue.android/video.vue.android.ui.launch.SplashActivity}" drawable="vue_vlog"/>
+
+    <!-- vivoCloud -->
+    <item component="ComponentInfo{com.bbk.cloud/com.bbk.cloud.activities.BBKCloudHomeScreen}" drawable="vivocloud"/>
+    <!-- vivo_com -->
+    <item component="ComponentInfo{com.vivo.space/com.vivo.space.ui.LogoActivity}" drawable="vivo_com"/>
+
+    <!-- 东付商户 -->
+    <item component="ComponentInfo{com.duolabao.customer_df/com.duolabao.customer.application.activity.BootActivity}" drawable="dongfushanghu"/>
+    <!-- 个人所得税 -->
+    <item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" drawable="gerensuodeshui"/>
+    <!-- 个人记账 -->
+    <item component="ComponentInfo{com.geren.jz/com.caiyi.accounting.jz.StartActivity}" drawable="gerenjizhang"/>
+    <!-- 中国银行 -->
+    <item component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}" drawable="boc"/>
+    <!-- 乐外卖商家 -->
+    <item component="ComponentInfo{com.xunjoy.lewaimai.shop/com.xunjoy.lewaimai.shop.MainActivity}" drawable="lewaimaishangjia"/>
+    <!-- 京东金融 -->
+    <item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}" drawable="jingdongjinrong"/>
+    <!-- 会计随身学初级中级注会 -->
+    <item component="ComponentInfo{com.onesoft.app.Tiiku.Duia.KJZ/com.duia.ssx.app_main.splash.SplashActivity}" drawable="kuaijisuishenxuechujizhongjizhuhui"/>
+    <!-- 刷宝 -->
+    <item component="ComponentInfo{com.yeahka.mach.android.shuabao/com.yeahka.mach.android.openpos.OpenPosActivity}" drawable="shuabao"/>
+    <!-- 剪映 -->
+    <item component="ComponentInfo{com.lemon.lv/com.vega.launcher.precondition.PreInstallConfirmActivity}" drawable="jianying"/>
+    <!-- 北京银行 -->
+    <item component="ComponentInfo{com.rytong.bankbj/com.rytong.app.emp.FlashActivity}" drawable="beijingyinhang"/>
+    <!-- 千聊 -->
+    <item component="ComponentInfo{com.thinkwu.live/com.thinkwu.live.ui.activity.start.InitActivity}" drawable="qianliao"/>
+    <!-- 大V店 -->
+    <item component="ComponentInfo{com.davdian.seller/com.davdian.seller.ui.activity.LaunchActivity}" drawable="davdian"/>
+    <!-- 太平洋保险 -->
+    <item component="ComponentInfo{com.cpic.sxbxxe/com.primeton.emp.client.activity.WelcomeActivity}" drawable="taipingyangbaoxian"/>
+    <!-- 学习强国 -->
+    <item component="ComponentInfo{cn.xuexi.android/com.alibaba.android.rimet.biz.SplashActivity}" drawable="xuexiqiangguo"/>
+    <!-- 小度音箱 -->
+    <item component="ComponentInfo{com.xiaodu.smartspeaker/com.xiaodu.smartspeaker.MainActivity}" drawable="xiaoduyinxiang"/>
+
+    <!-- 居民健康 -->
+    <item component="ComponentInfo{com.jkx4rh.client/com.jkx4rh.client.activity.JkxInitNavActivity}" drawable="juminjiankang"/>
+    <!-- 平安金管家 -->
+    <item component="ComponentInfo{com.pingan.lifeinsurance/com.pingan.lifeinsurance.basic.initialize.activity.PARSSplashActivity}" drawable="pinganjinguanjia"/>
+    <!-- 得到 -->
+    <item component="ComponentInfo{com.luojilab.player/com.luojilab.business.welcome.SplashActivity}" drawable="dedao"/>
+    <!-- 微信读书 -->
+    <item component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}" drawable="weixindushu"/>
+    <!-- 微商水印相机 -->
+    <item component="ComponentInfo{com.dingYZ.dingyzwater/com.dingYZ.dingyzwater.module.app.WSLaunchActivity}" drawable="weishangshuiyinxiangji"/>
+    <!-- 微商相册 -->
+    <item component="ComponentInfo{com.truedian.dragon/com.truedian.dragon.activity.LaunchActivity}" drawable="weishangxiangce"/>
+    <!-- 搜狗输入法 -->
+    <item component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}" drawable="sougoushurufa"/>
+    <!-- 河北税务 -->
+    <item component="ComponentInfo{com.hbytzs.sy/com.cn.servyou.hebei.activity.launcher.imps.LauncherActivity}" drawable="hebeishuiwu"/>
+    <!-- 滴滴出行 -->
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.LauncherActivity}" drawable="didichuxing"/>
+    <!-- 爱钱进 -->
+    <item component="ComponentInfo{com.iqianjin.client/com.iqianjin.client.asurface.activity.StartActivity}" drawable="aiqianjin"/>
+    <!-- 电子书 -->
+    <item component="ComponentInfo{com.chaozh.iReader/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="ebook"/>
+    <!-- 登记注册身份验证 -->
+    <item component="ComponentInfo{gov.zwfw.samr.djzc/io.dcloud.PandoraEntry}" drawable="dengjizhuceshenfenzheng"/>
+    <!-- 绿洲 -->
+    <item component="ComponentInfo{com.sina.oasis/com.sina.oasis.main.SplashActivity}" drawable="lvzhou"/>
+    <!-- 美团外卖商家版 -->
+    <item component="ComponentInfo{com.sankuai.meituan.meituanwaimaibusiness/com.sankuai.meituan.shell.splash.SplashActivity}" drawable="meituanwaimaishangjiaban"/>
+    <!-- 美柚 -->
+    <item component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.WelcomeActivity}" drawable="meiyou"/>
+    <!-- 考拉海购 -->
+    <item component="ComponentInfo{com.kaola/com.kaola.modules.boot.splash.SplashActivity}" drawable="kalahaigou"/>
+
+    <!-- 认证助手 -->
+    <item component="ComponentInfo{com.jinhui.sfrzmobile/com.jinhui.sfrzmobile.activity.WelcomeActivity}" drawable="renzhengzhushou"/>
+    <!-- 轻颜相机 -->
+    <item component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}" drawable="qingyanxiangji"/>
+    <!-- 铁路12306 -->
+    <item component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}" drawable="tielu12306"/>
+    <!-- 长城24小时 -->
+    <item component="ComponentInfo{com.changcheng.newsapp/com.hoge.android.factory.welcome.WelcomeActivity}" drawable="changcheng24xiaoshi"/>
+    <!-- 饿百零售商家版 -->
+    <item component="ComponentInfo{com.baidu.lbs.xinlingshou/com.baidu.lbs.xinlingshou.business.common.login.AutoLoginActivity}" drawable="ebailingshoushangjiaban"/>
+    <!-- 黄油相机 -->
+    <item component="ComponentInfo{com.by.butter.camera/com.by.butter.camera.splash.LauncherActivity}" drawable="huangyouxiangji"/>
+
+    <!-- Auto_js -->
+    <item component="ComponentInfo{org.autojs.autojs/org.autojs.autojs.ui.splash.SplashActivity}" drawable="auto_js"/>
+    <!-- CamScanner -->
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
+
+    <!-- Clash_of_Clans -->
+    <item component="ComponentInfo{com.supercell.clashofclans.mi/com.supercell.titan.kunlun.mi.GameAppKunlunXiaomi}" drawable="clash_of_clans"/>
+    <!-- FastHub -->
+    <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub"/>
+    <!-- Feedly -->
+    <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly"/>
+    <!-- GalaxyVPN -->
+    <item component="ComponentInfo{com.galaxylab.ss/com.galaxylab.android.MainActivityV3}" drawable="galaxyvpn"/>
+
+    <!-- HappyCast -->
+    <item component="ComponentInfo{com.hpplay.happycast/com.hpplay.happycast.activitys.WelcomeActivity}" drawable="happycast"/>
+    <!-- Inoreader -->
+    <item component="ComponentInfo{com.innologica.inoreader/com.innologica.inoreader.activities.BootstrapActivity}" drawable="inoreader"/>
+    <item component="ComponentInfo{com.gotokeep.keep.intl/com.gotokeep.keep.activity.SplashActivity}" drawable="keep_one"/>
+    <!-- LeetCode -->
+    <item component="ComponentInfo{cn.lingkou.app/cn.lingkou.app.MainActivity}" drawable="leetcode"/>
+    <!-- Light_Start -->
+    <item component="ComponentInfo{com.wpengapp.lightstart/com.wpengapp.support.activity.LauncherActivity}" drawable="light_start"/>
+    <!-- MX_Player_Pro -->
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player_pro"/>
+    <!-- Mi_Community -->
+    <item component="ComponentInfo{com.xiaomi.vipaccount/com.xiaomi.vipaccount.ui.splash.SplashActivity}" drawable="mi_community"/>
+    <!-- Mi_Financial -->
+    <item component="ComponentInfo{com.xiaomi.jr/com.xiaomi.jr.app.MiFinanceActivity}" drawable="mi_financial"/>
+    <!-- Mi_Remote -->
+    <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="mi_remote"/>
+
+    <!-- OpenHub -->
+    <item component="ComponentInfo{com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity}" drawable="openhub"/>
+    <!-- Pi -->
+    <item component="ComponentInfo{com.blockchainvault/com.blockchainvault.MainActivity}" drawable="pi"/>
+
+    <!-- QQ邮箱 -->
+    <item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}" drawable="qq_mail"/>
+    <!-- QQ音乐 -->
+    <item component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}" drawable="qq_music"/>
+    <!-- SIM_toolkit -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit"/>
+    <!-- Services_feedback -->
+    <item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="services_feedback"/>
+    <!-- TCL智慧家居 -->
+    <item component="ComponentInfo{com.tcl.superapp/com.tcl.tsmart.main.StartActivity}" drawable="tcl_zhihuijiaju"/>
+    <!-- TIM -->
+    <item component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" drawable="tim"/>
+    <!-- TapTap -->
+    <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap"/>
+
+    <!-- V2er -->
+    <item component="ComponentInfo{me.ghui.v2er/me.ghui.v2er.module.general.RouteActivity}" drawable="v2er"/>
+    <!-- WeChat_Work -->
+    <item component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity}" drawable="wechat_work"/>
+    <!-- Wuta_Cam -->
+    <item component="ComponentInfo{com.benqu.wuta/com.benqu.wuta.activities.splash.SplashActivity}" drawable="wuta_cam"/>
+    <!-- ele_me -->
+    <item component="ComponentInfo{me.ele/me.ele.Launcher}" drawable="ele_me"/>
+    <!-- e洛通 -->
+    <item component="ComponentInfo{www.joycard.com.cn.elyqrcodebus/www.joycard.org.gongjioaqrcodebus.activity.MainActivity}" drawable="eluotong"/>
+    <!-- 七月在线 -->
+    <item component="ComponentInfo{com.julyapp.julyonline/com.julyapp.julyonline.mvp.welcome.WelcomeActivity}" drawable="qiyuezaixian"/>
+    <!-- 下厨房 -->
+    <item component="ComponentInfo{com.xiachufang/com.xiachufang.startpage.ui.StartPageActivity}" drawable="xiachufang"/>
+    <!-- 中国农业银行 -->
+    <item component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}" drawable="abc"/>
+    <!-- 中国建设银行 -->
+    <item component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}" drawable="ccb"/>
+    <!-- 买单吧 -->
+    <item component="ComponentInfo{com.bankcomm.maidanba/com.bankcomm.maidanba.activity.SplashActivity}" drawable="maidanba"/>
+    <!-- 京喜 -->
+    <item component="ComponentInfo{com.jd.pingou/com.jd.pingou.MainActivity}" drawable="jingxi"/>
+    <!-- 亿通行 -->
+    <item component="ComponentInfo{enfc.metro/enfc.metro.main.StartActivity}" drawable="yitongxing"/>
+    <!-- 什么值得买 -->
+    <item component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.app.WelComeActivity}" drawable="shenmezhidemai"/>
+
+    <!-- 全民省钱购 -->
+    <item component="ComponentInfo{com.xiaomi.o2o/com.xiaomi.o2o.activity.O2OTabActivity}" drawable="quanminshengqiangou"/>
+    <!-- 南瓜影视 -->
+    <item component="ComponentInfo{com.pumpkinteam.pumpkinplayer/com.waxgourd.wg.module.splash.SplashActivity}" drawable="nanguayingshi"/>
+    <!-- 卧龙影视 -->
+    <item component="ComponentInfo{com.wolong.resource/com.wolong.resource.activity.MainActivity}" drawable="wolongyingshi"/>
+    <!-- 印象笔记 -->
+    <item component="ComponentInfo{com.yinxiang/com.evernote.ui.HomeActivity}" drawable="evernote"/>
+    <!-- 圈子账本_简单记账 -->
+    <item component="ComponentInfo{com.account.book.quanzi/com.account.book.quanzi.activity.SplashActivity}" drawable="quanzizhangben"/>
+    <!-- 多点 -->
+    <item component="ComponentInfo{com.wm.dmall/com.wm.dmall.DEFAULT}" drawable="duodian"/>
+    <!-- 小米WiFi -->
+    <item component="ComponentInfo{com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity}" drawable="mi_wifi"/>
+    <!-- 就愛看影視 -->
+    <item component="ComponentInfo{com.jakys/com.e4a.runtime.android.StartActivity}" drawable="jiuaikanyingshi"/>
+    <!-- 开发者头条 -->
+    <item component="ComponentInfo{io.manong.developerdaily/io.toutiao.android.ui.activity.LaunchActivity}" drawable="kaifazhetoutiao"/>
+    <!-- 影视大全 -->
+    <item component="ComponentInfo{com.le123.ysdq/com.elinkway.infinitemovies.ui.activity.SplashActivity}" drawable="yingshidaquan"/>
+    <!-- 快点投屏 -->
+    <item component="ComponentInfo{com.wukongtv.wkcast/com.wukongtv.wkcast.activity.SplashActivity}" drawable="kuaidiantouping"/>
+
+    <!-- 招商银行 -->
+    <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.frame.PBEntryActivity}" drawable="zhaoshangyinhang"/>
+    <!-- 掌上高铁 -->
+    <item component="ComponentInfo{com.crgt.ilife/com.crgt.ilife.plugin.sessionmanager.fg.main.SplashActivity}" drawable="zhangshanggaotie"/>
+    <!-- 携程旅行 -->
+    <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="xiechenglvyou"/>
+    <!-- 智联招聘 -->
+    <item component="ComponentInfo{com.zhaopin.social/com.zhaopin.social.SplashActivity}" drawable="zhilianzhaopin"/>
+    <!-- 智行火车票12306抢票 -->
+    <item component="ComponentInfo{com.yipiao/com.zt.main.entrance.ZTLaunchActivity}" drawable="zhixinghuochepiao"/>
+    <!-- 最右 -->
+    <item component="ComponentInfo{cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity}" drawable="zuiyou"/>
+    <!-- 有道云笔记 -->
+    <item component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}" drawable="youdaoyunbiji"/>
+    <!-- 汽车之家 -->
+    <item component="ComponentInfo{com.cubic.autohome/com.cubic.autohome.LogoActivity}" drawable="qichezhijia"/>
+    <!-- 流利说_英语 -->
+    <item component="ComponentInfo{com.liulishuo.engzo/com.liulishuo.engzo.app.activity.PrepositionPrivacyActivity}" drawable="liulishuo_yingyu"/>
+    <!-- 淘宝特价版 -->
+    <item component="ComponentInfo{com.taobao.litetao/com.taobao.splash.SplashActivity}" drawable="taobaotejiaban"/>
+    <!-- 爱美剧 -->
+    <item component="ComponentInfo{cn.ctcms.amj/cn.ctcms.amj.activity.main.EmptyServiceActivity}" drawable="aimeiju"/>
+    <!-- 爱酷影视 -->
+    <item component="ComponentInfo{com.huang.lgplayer.aikuyingshi/com.tianma.aikanmovie.UnityPlayerActivity}" drawable="aikuyingshi"/>
+    <!-- 牛客 -->
+    <item component="ComponentInfo{com.nowcoder.app.florida/com.nowcoder.app.florida.activity.home.SplashActivity}" drawable="niuke"/>
+
+    <!-- 百度地图 -->
+    <item component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}" drawable="baiduditu"/>
+    <!-- 简易影视 -->
+    <item component="ComponentInfo{com.site.jianyiys.player/tencent.frame.f}" drawable="jianyiyingshi"/>
+    <!-- 网易云课堂 -->
+    <item component="ComponentInfo{com.netease.edu.study/com.netease.edu.study.activity.ActivityWelcome}" drawable="netease_couldclass"/>
+    <!-- 美团外卖 -->
+    <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="meituanwaimai"/>
+    <!-- 腾讯新闻 -->
+    <item component="ComponentInfo{com.tencent.news/com.tencent.news.activity.SplashActivity}" drawable="tecent_news"/>
+    <!-- 菜鸟裹裹 -->
+    <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="cainiaoguoguo"/>
+    <!-- 蚂蚁财富 -->
+    <item component="ComponentInfo{com.antfortune.wealth/com.alipay.mobile.quinox.LauncherActivity}" drawable="mayicaifu"/>
+    <!-- 蝴蝶精灵 -->
+    <item component="ComponentInfo{com.hudieyingshi.client/com.ykxia.www.ui.activity.SplashActivity}" drawable="hudiejingling"/>
+    <!-- 豆瓣 -->
+    <item component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}" drawable="douban"/>
+    <!-- 阅读 -->
+    <item component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}" drawable="duokan_yuedu"/>
+    <!-- 飞猪 -->
+    <item component="ComponentInfo{com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity}" drawable="feizhu"/>
+    <!-- 马蜂窝旅游 -->
+    <item component="ComponentInfo{com.mfw.roadbook/com.mfw.roadbook.business.launch.StartActivity}" drawable="mafengwolvyou"/>
+
+    <!-- AIY_Projects -->
+    <item component="ComponentInfo{com.google.android.apps.aiy/com.google.android.apps.aiy.main.MainActivity}" drawable="aiy_projects"/>
+    <!-- AR_Elements -->
+    <item component="ComponentInfo{com.google.ar.unity.ddelements/com.unity3d.player.UnityPlayerActivity}" drawable="ar_elements"/>
+    <!-- Accessibility_Scanner -->
+    <item component="ComponentInfo{com.google.android.apps.accessibility.auditor/com.google.android.apps.accessibility.auditor.ui.MainActivity}" drawable="accessibility_scanner"/>
+    <!-- Admin -->
+    <item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="admin"/>
+    <!-- Analytics -->
+    <item component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.LauncherActivity}" drawable="analytics"/>
+    <!-- Android_Auto -->
+    <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="android_auto"/>
+    <!-- Android_Dev_Summit -->
+    <item component="ComponentInfo{com.google.samples.apps.adssched/com.google.samples.apps.iosched.ui.LauncherActivity}" drawable="android_dev_summit"/>
+    <!-- Android_TV -->
+    <item component="ComponentInfo{com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity}" drawable="android_tv"/>
+    <!-- Android_Things_Toolkit -->
+    <item component="ComponentInfo{com.google.android.things.companion/com.google.android.things.companion.app.MainActivity}" drawable="android_things_toolkit"/>
+    <!-- Arts_Culture -->
+    <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.web.WebViewActivity}" drawable="arts_culture"/>
+    <!-- Assistant -->
+    <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="assistant"/>
+    <!-- Authenticator -->
+    <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="authenticator"/>
+    <!-- Baseline -->
+    <item component="ComponentInfo{com.google.android.apps.baselinestudy/com.google.googlex.apollo.android.home.InitActivity}" drawable="baseline"/>
+    <!-- Beacon_Tools -->
+    <item component="ComponentInfo{com.google.android.apps.location.beacon.beacontools/com.google.android.apps.location.beacon.beacontools.activities.MainActivity}" drawable="beacon_tools"/>
+    <!-- Blogger -->
+    <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.ApplicationActivity}" drawable="blogger"/>
+
+    <!-- Cameos -->
+    <item component="ComponentInfo{com.google.android.apps.cameos/com.google.android.apps.cameos.classes.ui.activity.Activity}" drawable="cameos"/>
+
+    <!-- Cardboard -->
+    <item component="ComponentInfo{com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2Dv2}" drawable="cardboard"/>
+    <!-- Cardboard_Design_Lab -->
+    <item component="ComponentInfo{com.google.vr.cardboard.apps.designlab/com.google.vrtoolkit.cardboard.plugins.unity.UnityCardboardActivity}" drawable="cardboard_design_lab"/>
+    <!-- Chat -->
+    <item component="ComponentInfo{com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity}" drawable="chat"/>
+    <!-- Chrome_Beta -->
+    <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="chrome_beta"/>
+    <!-- Chrome_Canary -->
+    <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="chrome_canary"/>
+    <!-- Chrome_Dev -->
+    <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="chrome_dev"/>
+    <!-- Classroom -->
+    <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}" drawable="classroom"/>
+    <!-- Clips -->
+    <item component="ComponentInfo{com.google.android.apps.cerebra.links/com.google.android.apps.cerebra.links.splash.SplashActivity}" drawable="clips"/>
+    <!-- Cloud_Console -->
+    <item component="ComponentInfo{com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity}" drawable="cloud_console"/>
+    <!-- Cloud_Search -->
+    <item component="ComponentInfo{com.google.enterprise.topaz.mobile.android/com.google.enterprise.topaz.mobile.android.flutter.MainActivity}" drawable="cloud_search"/>
+    <!-- Creative_Preview -->
+    <item component="ComponentInfo{com.google.android.apps.audition/com.google.android.apps.audition.presenter.PreviewListActivity}" drawable="creative_preview"/>
+    <!-- Crowdsource -->
+    <item component="ComponentInfo{com.google.android.apps.village.boond/com.google.android.apps.village.boond.activities.SplashActivity}" drawable="crowdsource"/>
+    <!-- Device_Policy -->
+    <item component="ComponentInfo{com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity}" drawable="device_policy"/>
+    <!-- Docs -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="docs"/>
+    <!-- Earth -->
+    <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="earth"/>
+    <!-- Expeditions -->
+    <item component="ComponentInfo{com.google.vr.expeditions/com.google.vr.expeditions.home.startup.ExpeditionsStartupActivity}" drawable="expeditions"/>
+    <!-- FameBit -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.famebit/com.google.android.apps.youtube.famebit.ui.SplashScreenActivity}" drawable="famebit"/>
+    <!-- Family_Link -->
+    <item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.home.HomeActivityV2}" drawable="family_link_one"/>
+    <item component="ComponentInfo{com.google.android.apps.kids.familylinkhelper/com.google.android.apps.kids.familylinkhelper.home.HomeActivity}" drawable="family_link"/>
+
+
+    <!-- Fit -->
+    <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="fit"/>
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.google.android.apps.improv/com.google.android.apps.improv.main.activity.MainActivity}" drawable="google_gallery"/>
+    <!-- Gallery_Go -->
+    <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="gallery_go"/>
+    <!-- Gboard -->
+    <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard"/>
+    <!-- Google -->
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="google"/>
+    <!-- Google_Ads -->
+    <item component="ComponentInfo{com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity}" drawable="google_ads"/>
+    <!-- Google_Fi -->
+    <item component="ComponentInfo{com.google.android.apps.tycho/com.google.android.apps.tycho.AccountDetailsActivity}" drawable="google_fi"/>
+    <!-- Google_Fiber -->
+    <item component="ComponentInfo{com.google.android.apps.fiber.myfiber/com.google.android.apps.fiber.myfiber.SplashActivity}" drawable="google_fiber"/>
+    <!-- Google_Go -->
+    <item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google_go"/>
+    <!-- Google_Handwriting_Input -->
+    <item component="ComponentInfo{com.google.android.apps.handwriting.ime/com.google.android.apps.handwriting.ime.WelcomeActivity}" drawable="google_handwriting_input"/>
+    <!-- Google_Indic_Keyboard -->
+    <item component="ComponentInfo{com.google.android.apps.inputmethod.hindi/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_indic_keyboard"/>
+    <!-- Google_Japanese_Input -->
+    <item component="ComponentInfo{com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_japanese_input"/>
+    <!-- Google_My_Business -->
+    <item component="ComponentInfo{com.google.android.apps.vega/com.google.android.apps.vega.VegaMainActivity}" drawable="google_my_business"/>
+    <!-- Google_News -->
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="google_news"/>
+    <!-- Google_One -->
+    <item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="google_one"/>
+    <!-- Google_Opinion_Rewards -->
+    <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="google_opinion_rewards"/>
+    <!-- Google_Pay -->
+    <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="google_pay"/>
+    <!-- Google_Pinyin_Input -->
+    <item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_pinyin_input"/>
+    <!-- Google_Play_Books -->
+    <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books"/>
+    <!-- Google_Podcasts -->
+    <item component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}" drawable="google_podcasts"/>
+    <!-- Google_Spotlight_Stories -->
+    <item component="ComponentInfo{com.google.android.spotlightstories/com.google.android.spotlightstories.app.ui.SplashActivity}" drawable="google_spotlight_stories"/>
+    <!-- Google_Wifi -->
+    <item component="ComponentInfo{com.google.android.apps.access.wifi.consumer/com.google.android.apps.access.wifi.consumer.app.MainActivity}" drawable="google_wifi"/>
+    <!-- Grasshopper -->
+    <item component="ComponentInfo{com.area120.grasshopper/com.area120.grasshopper.MainActivity}" drawable="grasshopper"/>
+    <!-- Hangouts -->
+    <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="hangouts"/>
+    <!-- Hangouts_Dialer -->
+    <item component="ComponentInfo{com.google.android.apps.hangoutsdialer/com.google.android.apps.hangoutsdialer.app.LaunchActivity}" drawable="hangouts_dialer"/>
+    <!-- Home -->
+    <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="home"/>
+    <!-- Intersection_Explorer -->
+    <item component="ComponentInfo{com.google.android.marvin.intersectionexplorer/com.google.android.marvin.intersectionexplorer.IntersectionExplorer}" drawable="intersection_explorer"/>
+    <!-- Jacquard -->
+    <item component="ComponentInfo{com.google.android.apps.jacquard/com.google.jacquard.app.activities.JacquardLauncherActivity}" drawable="jacquard"/>
+    <!-- Jamboard -->
+    <item component="ComponentInfo{com.google.android.apps.jam/com.google.android.apps.jam.jelly.home.HomeActivity}" drawable="jamboard"/>
+    <!-- Keep_Notes -->
+    <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="keep_notes"/>
+    <!-- Lens -->
+    <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="lens"/>
+    <!-- Local_Services_ads_by_Google -->
+    <item component="ComponentInfo{com.google.android.apps.ads.homeservices/com.google.android.apps.ads.homeservices.flutter.ApplicationActivity}" drawable="local_services_ads_by_google"/>
+
+    <!-- Measure -->
+    <item component="ComponentInfo{com.google.tango.measure/com.google.vr.apps.ornament.measure.MeasureMainActivity}" drawable="measure"/>
+    <!-- Meet -->
+    <item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="meet"/>
+    <!-- Meeye -->
+    <item component="ComponentInfo{com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.activities.SplashActivity}" drawable="meeye"/>
+
+    <!-- Package_Names_Viewer -->
+    <item component="ComponentInfo{com.csdroid.pkg/com.cuilab.pkgviewer.ui.MainActivity}" drawable="package_names_viewer"/>
+    <!-- PanDownload -->
+    <item component="ComponentInfo{top.linesoft.kiryuu.pandownload/top.linesoft.kiryuu.pandownload.StartActivity}" drawable="pandownload"/>
+    <!-- PhotoScan -->
+    <item component="ComponentInfo{com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity}" drawable="photoscan"/>
+    <!-- Play_Console -->
+    <item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="play_console"/>
+    <!-- Primer -->
+    <item component="ComponentInfo{com.google.android.apps.primer/com.google.android.apps.primer.LauncherActivity}" drawable="primer"/>
+    <!-- Remote_Desktop -->
+    <item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="remote_desktop"/>
+    <!-- Santa_Tracker -->
+    <item component="ComponentInfo{com.google.android.apps.santatracker/com.google.android.apps.santatracker.activities.SantaActivity}" drawable="santa_tracker"/>
+    <!-- Science_Journal -->
+    <item component="ComponentInfo{com.google.android.apps.forscience.whistlepunk/com.google.android.apps.forscience.whistlepunk.MainActivity}" drawable="science_journal"/>
+    <!-- Screenwise_Meter -->
+    <item component="ComponentInfo{com.google.android.apps.userpanel/com.google.android.apps.userpanel.activities.MainActivity}" drawable="screenwise_meter"/>
+    <!-- Sheets -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="sheets"/>
+    <!-- Shopping -->
+    <item component="ComponentInfo{com.google.android.apps.shopping.express/com.google.android.apps.shopping.express.main.PreMainActivity}" drawable="shopping"/>
+    <!-- Slides -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="slides"/>
+
+    <!-- Socratic -->
+    <item component="ComponentInfo{com.google.socratic/com.google.android.apps.education.bloom.app.home.HomeActivity}" drawable="socratic"/>
+    <!-- Sound_Amplifier -->
+    <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity}" drawable="sound_amplifier"/>
+    <!-- Stadia -->
+    <item component="ComponentInfo{com.google.stadia.android/com.google.chrome.cloudcast.client.mobile.android.MobileActivity}" drawable="stadia"/>
+    <!-- Street_View -->
+    <item component="ComponentInfo{com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity}" drawable="street_view"/>
+    <!-- Study_Kit -->
+    <item component="ComponentInfo{com.google.android.apps.studykit/com.google.googlex.pancetta.mobilehost.lib.studykit.activity.NormalActivity}" drawable="study_kit"/>
+    <!-- Tasks -->
+    <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="tasks"/>
+    <!-- Toontastic -->
+    <item component="ComponentInfo{com.google.toontastic/com.google.android.libraries.kids.creative.adapter.CreativeUnityAdapter}" drawable="toontastic"/>
+
+    <!-- VR180 -->
+    <item component="ComponentInfo{com.google.vr.eva/com.google.vr.wally.eva.StartActivity}" drawable="vr180"/>
+    <!-- Voice -->
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="voice"/>
+    <!-- Voice_Access -->
+    <item component="ComponentInfo{com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity}" drawable="voice_access"/>
+    <!-- Wear_OS_by_Google -->
+    <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wear_os_by_google"/>
+    <!-- YT_Kids -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.browse.SplashScreenActivity}" drawable="yt_kids"/>
+    <!-- YT_Studio -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="yt_studio"/>
+    <!-- YouTube_Music -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
+    <!-- YouTube_TV -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.features.main.MainActivity}" drawable="youtube_tv"/>
+    <!-- 中信银行 -->
+    <item component="ComponentInfo{com.ecitic.bank.mobile/com.ecitic.bank.mobile.ui.SplashActivity}" drawable="zhongxinyinhang"/>
+    <!-- 古书之美 -->
+    <item component="ComponentInfo{com.xcz.ancientbooks/com.xcz.ancientbooks.activities.SplashActivity}" drawable="gushuzhimei"/>
+    <!-- 工银融e联 -->
+    <item component="ComponentInfo{com.icbc.im/com.icbc.im.SplashActivity}" drawable="gongyinrong_e_lian"/>
+
+    <!-- 我的世界挖矿版 -->
+    <item component="ComponentInfo{com.mjminecra.mi/com.mojang.minecraftpe.MainActivity}" drawable="wodeshijiewakuangban"/>
+    <!-- 抖音极速版 -->
+    <item component="ComponentInfo{com.ss.android.ugc.aweme.lite/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyinjisuban"/>
+
+    <!-- 爱奇艺随刻版 -->
+    <item component="ComponentInfo{tv.pps.mobile/tv.pps.mobile.GateIn0}" drawable="iqiyi_suikeban"/>
+
+
+    <!--    第一次更新-->
+    <!-- Amazon_Shopping -->
+    <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping"/>
+
+    <!-- Dropbox -->
+    <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox"/>
+
+    <!-- Facebook -->
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
+
+    <!-- Instagram -->
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
+
+    <!-- LinkedIn -->
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin"/>
+
+    <!-- Messenger -->
+    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger"/>
+
+    <!-- PayPal -->
+    <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
+
+    <!-- PureIconPack -->
+    <item component="ComponentInfo{me.morirain.dev.iconpack.pure/me.morirain.dev.iconpack.pure.MainActivity}" drawable="pureiconpack"/>
+
+    <!-- Spotify -->
+    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify"/>
+
+
+
+    <!-- Uber -->
+    <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber"/>
+
+    <!-- Uber_Driver -->
+    <item component="ComponentInfo{com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity}" drawable="uber_driver"/>
+
+    <!-- VLC -->
+    <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc"/>
+
+    <!-- Venmo -->
+    <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="venmo"/>
+
+    <!-- eBay -->
+    <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ebay"/>
+
+    <!-- nice -->
+    <item component="ComponentInfo{com.nice.main/com.nice.main.activities.MainActivity_}" drawable="nice"/>
+
+    <!-- 中国工商银行 -->
+    <item component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}" drawable="icbc"/>
+
+    <!-- 交通银行 -->
+    <item component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.main.activity.ConfigActivity}" drawable="bcm"/>
+
+    <!--pixelworld-->
+    <item component="ComponentInfo{me.jiping.theme.launcher.icon.pack.pixelworld/me.jiping.theme.launcher.icon.pack.pixelworld.MainActivity}" drawable="pixelworld"/>
+
+    <!-- Google -->
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google"/>
+
+    <!-- Blueprint -->
+    <item component="ComponentInfo{jahirfiquitiva.apps.blueprint.demo/jahirfiquitiva.apps.blueprint.demo.MainActivity}" drawable="blueprint"/>
+
+    <!-- Lawnchair 设置  -->
+
+    <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair_settings"/>
+
+    <!-- Chrome -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
+
+    <!-- Clock -->
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="google_clock"/>
+
+    <!-- Drive -->
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive"/>
+
+    <!-- Duo -->
+    <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_duo"/>
+
+    <!-- Gmail -->
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="google_gmail"/>
+
+    <!-- Google -->
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google"/>
+
+    <!-- Google_Play_Movies_TV -->
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="google_play_movies_tv"/>
+
+    <!-- Google_Play_Music -->
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="google_play_music"/>
+
+    <!-- Google_Play_Store -->
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
+
+    <!-- Photos -->
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos"/>
+
+    <!-- Photos -->
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos"/>
+
+    <!-- Wallpapers -->
+    <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="google_wallpapers"/>
+
+    <!-- ADM_Pro -->
+    <item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm_pro"/>
+
+    <!-- AVnight -->
+    <item component="ComponentInfo{com.avnight/com.avnight.LandingActivity}" drawable="avnight"/>
+
+    <!-- Adobe_Acrobat -->
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat"/>
+
+    <!-- Adobe_XD -->
+    <item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobe_xd"/>
+
+    <!-- Amazfit -->
+    <item component="ComponentInfo{com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="amazfit"/>
+
+    <!-- App_Center -->
+    <item component="ComponentInfo{com.microsoft.hockeyapp.testerapp/net.hockeyapp.client.navigation.HomeActivity}" drawable="app_center"/>
+
+    <!-- Apsu_3D_Launcher_2018 -->
+    <item component="ComponentInfo{com.phone.launcher.android_live_HD_wallpaper_efficiency_customize_apsu/com.free.launcher3d.ExLauncher}" drawable="apsu_3d_launcher_2018"/>
+
+    <!-- Authenticator -->
+    <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="microsoft_authenticator"/>
+
+    <!-- BOSS直聘 -->
+    <item component="ComponentInfo{com.hpbr.bosszhipin/com.hpbr.bosszhipin.module.launcher.WelcomeActivity}" drawable="boss_zhipin"/>
+
+    <!-- Behance -->
+    <item component="ComponentInfo{com.behance.behance/com.behance.network.ui.activities.MainActivity}" drawable="behance"/>
+
+    <!-- Bing_places_for_business -->
+    <item component="ComponentInfo{com.microsoft.android.bingplaces/md5414ae3c27ff7131caef7ef9b90ad5e5b.MainActivity}" drawable="bing_places_for_business"/>
+
+    <!-- Business_Central -->
+    <item component="ComponentInfo{com.microsoft.dynamics.ProjectMadeira/com.microsoft.dynamics.ProjectMadeira.MainActivity}" drawable="business_central"/>
+
+    <!-- Button_Mapper -->
+    <item component="ComponentInfo{flar2.homebutton/flar2.homebutton.MainActivity}" drawable="button_mapper"/>
+
+    <!-- Chrome -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
+
+
+
+    <!-- Color -->
+    <item component="ComponentInfo{com.picsart.draw/com.palabs.artboard.activity.SplashScreenActivity}" drawable="color"/>
+
+    <!-- Cortana -->
+    <item component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.SplashActivity}" drawable="cortana"/>
+
+    <!-- Creative_Cloud -->
+    <item component="ComponentInfo{com.adobe.cc/com.adobe.cc.SplashScreen}" drawable="creative_cloud"/>
+
+    <!-- Downloads -->
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="mi_downloads"/>
+
+    <!-- Drive -->
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive"/>
+
+    <!-- Edge -->
+    <item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="edge"/>
+
+
+
+    <!-- Finance_and_Operations -->
+    <item component="ComponentInfo{com.microsoft.dynamics365.operations.mobile/com.microsoft.dynamics365.operations.mobile.MainActivity}" drawable="finance_and_operations"/>
+
+    <!-- FloatPicture -->
+    <item component="ComponentInfo{tool.xfy9326.floatpicture/tool.xfy9326.floatpicture.Activities.MainActivity}" drawable="floatpicture"/>
+
+
+
+    <!-- Gmail -->
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="google_gmail"/>
+
+    <!-- Google_Play_Games -->
+    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="google_play_games"/>
+
+    <!-- Google_Play_Store -->
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
+
+
+
+    <!-- Kaizala -->
+    <item component="ComponentInfo{com.microsoft.mobile.polymer/com.microsoft.mobile.polymer.ui.MainActivity}" drawable="kaizala"/>
+
+    <!-- LOFTER -->
+    <item component="ComponentInfo{com.lofter.android/com.lofter.android.global.splash.SplashActivity}" drawable="lofter"/>
+
+    <!-- Lawnchair -->
+    <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair"/>
+
+    <!-- Lync_2010 -->
+    <item component="ComponentInfo{com.microsoft.office.lync/com.microsoft.office.lync.ui.SplashActivity}" drawable="lync_2010"/>
+
+    <!-- MT_Manager -->
+    <item component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}" drawable="mt_manager"/>
+
+    <!-- Magisk_Manager -->
+    <item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk_manager"/>
+
+    <!-- Math -->
+    <item component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}" drawable="math"/>
+
+    <!-- MediBang_Paint -->
+    <item component="ComponentInfo{com.medibang.android.paint.tablet/com.medibang.android.paint.tablet.ui.activity.LauncherActivity}" drawable="medibang_paint"/>
+
+    <!-- Meeyo -->
+    <item component="ComponentInfo{com.yeyebbc.play.meeye.isflat/com.yeyebbc.play.meeye.isflat.activities.SplashActivity}" drawable="meeyo"/>
+
+
+
+    <!-- Mi_Mover -->
+    <item component="ComponentInfo{com.miui.huanji/com.miui.huanji.MainActivity}" drawable="mi_mover"/>
+
+    <!-- Mi_Roaming -->
+    <item component="ComponentInfo{com.miui.virtualsim/com.miui.virtualsim.ui.MainActivity}" drawable="mi_roaming"/>
+
+
+
+    <!-- Microsoft_Ads -->
+    <item component="ComponentInfo{com.microsoft.bingads/com.microsoft.bingads.app.views.activities.WelcomeActivity}" drawable="microsoft_ads"/>
+
+    <!-- Microsoft_Bing -->
+    <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.app.MainActivity}" drawable="microsoft_bing"/>
+
+    <!-- Microsoft_Dynamics_365_Project_Timesheet -->
+    <item component="ComponentInfo{com.microsoft.microsoftdynamics365projecttimesheet/md5dd00805ffb0b37d919a2d0a3b8a786b2.LoginActivity}" drawable="microsoft_dynamics_365_project_timesheet"/>
+
+    <!-- Microsoft_Excel -->
+    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel"/>
+
+    <!-- Microsoft_Launcher -->
+    <item component="ComponentInfo{com.microsoft.launcher.zan/com.android.launcher3.LauncherWithShortcut}" drawable="microsoft_launcher_preview"/>
+
+    <!-- Microsoft_Launcher -->
+    <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.EntryActivity}" drawable="microsoft_launcher"/>
+
+    <!-- Microsoft_News -->
+    <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="microsoft_news"/>
+
+    <!-- Microsoft_PowerPoint -->
+    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_powerpoint"/>
+
+    <!-- Microsoft_Remote_Desktop -->
+    <item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity}" drawable="microsoft_remote_desktop"/>
+
+    <!-- Microsoft_Remote_Desktop -->
+    <item component="ComponentInfo{com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity}" drawable="microsoft_remote_desktop"/>
+
+    <!-- Microsoft_Stream -->
+    <item component="ComponentInfo{com.microsoft.stream/com.microsoft.stream.ui.activities.SplashActivity}" drawable="microsoft_stream"/>
+
+    <!-- Microsoft_Word -->
+    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_word"/>
+
+    <!-- Mini_Metro -->
+    <item component="ComponentInfo{nz.co.codepoint.minimetro/com.dinopoloclub.minimetro.nbo.LicensedActivity}" drawable="mini_metro"/>
+
+    <!-- No_Limits -->
+    <item component="ComponentInfo{com.ea.game.nfs14_row/com.ea.game.nfs14_row.NFSActivity}" drawable="no_limits"/>
+
+
+
+    <!-- Office -->
+    <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="office"/>
+
+    <!-- Office_Lens -->
+    <item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}" drawable="office_lens"/>
+
+    <!-- OneDrive -->
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
+
+    <!-- OneNote -->
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote"/>
+
+    <!-- OneUI -->
+    <item component="ComponentInfo{hastamev.oneui.com/jahirfiquitiva.apps.blueprint.demo.MainActivity}" drawable="oneui"/>
+
+    <!-- Outlook -->
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook"/>
+
+    <!-- Peggle_Blast -->
+    <item component="ComponentInfo{com.ea.game.pegglex_row/com.ea.nimble.plugin.NimbleActivity}" drawable="peggle_blast"/>
+
+    <!-- Pixles -->
+    <item component="ComponentInfo{com.pixles.iconpack/com.pixles.iconpack.activities.SplashActivity}" drawable="pixles"/>
+
+    <!-- Plague_Inc -->
+    <item component="ComponentInfo{com.miniclip.plagueinc/com.miniclip.plagueinc.PlagueIncActivity}" drawable="plague_inc"/>
+
+    <!-- Planner -->
+    <item component="ComponentInfo{com.microsoft.planner/com.microsoft.planner.login.ConnectActivity}" drawable="planner"/>
+
+    <!-- PreviewIconPack -->
+    <item component="ComponentInfo{com.scrymile.iconpack.yulan/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="previewiconpack"/>
+
+    <!-- QuickShortcutMaker -->
+    <item component="ComponentInfo{com.sika524.android.quickshortcut/com.sika524.android.quickshortcut.app.CreateActivity}" drawable="quickshortcutmaker"/>
+
+    <!-- RAR -->
+    <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="rar"/>
+
+    <!-- Reactor -->
+    <item component="ComponentInfo{com.rsgapps.reactor/com.unity3d.player.UnityPlayerActivity}" drawable="reactor"/>
+
+
+    <!-- SSRR -->
+    <item component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}" drawable="ssrr"/>
+
+    <!-- Scanner -->
+    <item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="mi_scanner"/>
+
+    <!-- Scene -->
+    <item component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activities.ActivityStartSplash}" drawable="scene"/>
+
+    <!-- Screen_Recorder -->
+    <item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="mi_screen_recorder"/>
+
+
+
+    <!-- Share -->
+    <item component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}" drawable="share"/>
+
+    <!-- SharePoint -->
+    <item component="ComponentInfo{com.microsoft.sharepoint/com.microsoft.sharepoint.MainActivity}" drawable="sharepoint"/>
+
+    <!-- Slowly -->
+    <item component="ComponentInfo{com.slowlyapp/com.slowlyapp.MainActivity}" drawable="slowly"/>
+
+    <!-- Smart_Launcher -->
+    <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
+
+    <!-- Snapseed -->
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="google_snapseed"/>
+
+    <!-- Solitaire -->
+    <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="solitaire"/>
+
+    <!-- Speedtest -->
+    <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest"/>
+
+    <!-- StaffHub -->
+    <item component="ComponentInfo{ols.microsoft.com.shiftr/ols.microsoft.com.shiftr.activity.SingleFragmentActivity}" drawable="staffhub"/>
+
+    <!-- TETRIS -->
+    <item component="ComponentInfo{com.ea.game.tetris2011_row/com.ea.game.tetrisapp.TetrisAppActivity}" drawable="tetris"/>
+
+    <!-- TaiChi -->
+    <item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}" drawable="taichi"/>
+
+    <!-- Telegram_X -->
+    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x"/>
+
+    <!-- Termux -->
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
+
+    <!-- Titanium_Backup -->
+    <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="titanium_backup"/>
+
+    <!-- To_Do -->
+    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="to_do"/>
+
+    <!-- Toutiao -->
+    <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.MainActivity}" drawable="toutiao"/>
+
+    <!-- Translate -->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate"/>
+
+    <!-- VSCO -->
+    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="vsco"/>
+
+    <!-- Verticons -->
+    <item component="ComponentInfo{com.spaceman.verticonsfree/com.spaceman.verticonsfree.activities.SplashActivity}" drawable="verticons"/>
+
+    <!-- Via -->
+    <item component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}" drawable="via"/>
+
+    <!-- WPS_Office -->
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wps_office"/>
+
+    <!-- Xbox -->
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox"/>
+
+    <!-- YouTube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="google_youtube"/>
+
+    <!-- core -->
+    <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="core"/>
+
+    <!-- pixiv -->
+    <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv"/>
+
+    <!-- 一个木函 -->
+    <item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="yigemuhan"/>
+
+    <!-- 中国移动 -->
+    <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}" drawable="zhongguoyidong"/>
+
+    <!-- 云闪付 -->
+    <item component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}" drawable="unionpay"/>
+
+    <!-- 今日头条极速版 -->
+    <item component="ComponentInfo{com.ss.android.article.lite/com.ss.android.article.lite.activity.SplashActivity}" drawable="jinritoutiaojisuban"/>
+
+    <!-- 包名查看 -->
+    <item component="ComponentInfo{com.xcn.baoming/com.androlua.Welcome}" drawable="baoming"/>
+
+    <!-- 和平精英 -->
+    <item component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}" drawable="pubgmhd"/>
+
+    <!-- 哔哩哔哩 -->
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
+
+    <!-- 夸克 -->
+    <item component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}" drawable="kuake"/>
+
+    <!-- 小米主题安装器 -->
+    <item component="ComponentInfo{com.mifont.kit/com.mifont.kit.activity.MainActivity}" drawable="xiaomizhutianzhuangqi"/>
+
+    <!-- 拉勾招聘 -->
+    <item component="ComponentInfo{com.alpha.lagouapk/com.alpha.lagouapk.HelloActivity}" drawable="lagouzhaopin"/>
+
+    <!-- 时钟 -->
+    <item component="ComponentInfo{com.frank.myclock/com.frank.myclock.activity.SplashActivity}" drawable="shizhong"/>
+
+    <!-- 查看包名 -->
+    <item component="ComponentInfo{com.michael.CheckAppsPack/md5be422a2e142e0d4d406c8d194bc48c4f.MainActivity}" drawable="chakanbaoming"/>
+
+    <!-- 爱吾谷歌安装器 -->
+    <item component="ComponentInfo{com.aiwu.googleinstaller/com.aiwu.googleinstaller.ui.GoogleInstallerActivity}" drawable="aiwugugeanzhuangqi"/>
+
+    <!-- 生字本 -->
+    <item component="ComponentInfo{com.frank.shengziben/com.frank.shengziben.activity.MainActivity}" drawable="shengziben"/>
+
+    <!-- 电信营业厅 -->
+    <item component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}" drawable="dianxinyingyeting"/>
+
+    <!-- 百度网盘 -->
+    <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" drawable="baiduwangpan"/>
+
+    <!-- 知乎 -->
+    <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="zhihu"/>
+
+    <!-- 站酷 -->
+    <item component="ComponentInfo{com.zcool.community/com.zcool.community.module.splash.SplashActivity}" drawable="zcool"/>
+
+    <!-- 腾讯文档 -->
+    <item component="ComponentInfo{com.tencent.docs/com.tencent.mobileqq.activity.SplashActivity}" drawable="tencent_doc"/>
+
+    <!-- 观止 -->
+    <item component="ComponentInfo{com.meiriyiwen.app/com.meiriyiwen.app.MainActivity}" drawable="guanzhi"/>
+
+    <!-- 讯飞输入法 -->
+    <item component="ComponentInfo{com.iflytek.inputmethod/com.iflytek.inputmethod.LauncherActivity}" drawable="xunfeishurufa"/>
+
+    <!-- 跑跑卡丁车官方竞速版 -->
+    <item component="ComponentInfo{com.tencent.tmgp.WePop/com.tencent.tmgp.WePop.WePopActivity}" drawable="paopaokadingchejingsuban"/>
+
+    <!-- 腾讯课堂 -->
+    <item component="ComponentInfo{com.tencent.edu/com.tencent.edu.module.SplashActivity}" drawable="tencent_edu"/>
+
+    <!-- 王牌战士 -->
+    <item component="ComponentInfo{com.tencent.af/com.tencent.af.AFActivity}" drawable="wangpaizhanshi"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- ================================= 常用图标适配 POPULAR ICONS ================================================================================================================================== -->
+
+
+
+    <!-- WeChat -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat"/>
+    <!-- QQ空间 -->
+    <item component="ComponentInfo{com.qzone/com.tencent.sc.activity.SplashActivity}" drawable="qq_zone"/>
+    <!-- 酷安 -->
+    <item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="coolapk"/>
+    <!-- 支付宝 -->
+    <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay"/>
+    <!-- 阿里巴巴 -->
+    <item component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}" drawable="alibaba"/>
+    <!-- Amazon Shopping -->
+    <item component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping"/>
+    <!-- 百度 -->
+    <item component="ComponentInfo{com.baidu.searchbox/com.baidu.searchbox.SplashActivity}" drawable="baidu"/>
+    <!-- 百度网盘 -->
+    <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.DefaultMainActivity}" drawable="baiduwangpan"/>
+    <!-- BIGO_LIVE -->
+    <item component="ComponentInfo{sg.bigo.live/sg.bigo.live.home.MainActivity}" drawable="bigo_live"/>
+    <!-- 哔哩哔哩 -->
+    <item component="ComponentInfo{tv.danmaku.bilj/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
+    <!-- 酷狗音乐 -->
+    <item component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}" drawable="kugou"/>
+    <!-- 腾讯视频 -->
+    <item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}" drawable="tencent_qqlive"/>
+    <!-- 得物_毒 -->
+    <item component="ComponentInfo{com.shizhuang.duapp/com.shizhuang.duapp.modules.home.ui.SplashActivity}" drawable="dewu_du"/>
+    <!-- 钉钉 -->
+    <item component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}" drawable="dingding"/>
+    <!-- 懂车帝 -->
+    <item component="ComponentInfo{com.ss.android.auto/com.ss.android.auto.policy.AutoPrivacyActivity}" drawable="dongchedi"/>
+    <!-- dotpict -->
+    <item component="ComponentInfo{net.dotpicko.dotpict/net.dotpicko.dotpict.RoutingActivity}" drawable="dotpict"/>
+    <!-- 抖音短视频 -->
+    <item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyin"/>
+    <!-- 斗鱼直播 -->
+    <item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}" drawable="douyu"/>
+    <!-- Dribbble -->
+    <item component="ComponentInfo{mathieumaree.rippple/mathieumaree.rippple.MainActivity}" drawable="dribbble_one"/>
+    <!-- 番茄免费小说 -->
+    <item component="ComponentInfo{com.dragon.read/com.dragon.read.pages.splash.SplashActivity}" drawable="fanqiemianfeixiaoshuo"/>
+    <!-- 高德地图 -->
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="gaodeditu"/>
+    <!-- YouTube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="google_youtube"/>
+    <!-- 爱奇艺 -->
+    <item component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}" drawable="iqiyi"/>
+    <!-- 京东 -->
+    <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="jingdong"/>
+    <!-- 快手极速版 -->
+    <item component="ComponentInfo{com.kuaishou.nebula/com.yxcorp.gifshow.HomeActivity}" drawable="kuaishoujisuban"/>
+    <!-- Kwai -->
+    <item component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}" drawable="kwai"/>
+    <!-- 网易云音乐 -->
+    <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}" drawable="netease_cloudmusic"/>
+    <!-- 网易严选 -->
+    <item component="ComponentInfo{com.netease.yanxuan/com.netease.yanxuan.module.splash.SplashActivity}" drawable="netease_yanxuan"/>
+    <!-- 我的世界 -->
+    <item component="ComponentInfo{com.netease.mc.mi/com.mojang.minecraftpe.MainActivity}" drawable="netease_minecraft"/>
+    <!-- Pinterest -->
+    <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest"/>
+    <!-- 拼多多 -->
+    <item component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}" drawable="pinduoduo"/>
+    <!-- PUBG_MOBILE -->
+    <item component="ComponentInfo{com.tencent.ig/com.epicgames.ue4.SplashActivity}" drawable="pubg_mobile"/>
+    <!-- 起点读书 -->
+    <item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qidiandushu"/>
+    <!-- QQ -->
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq"/>
+    <!-- QQ浏览器 -->
+    <item component="ComponentInfo{com.tencent.mtt/com.tencent.mtt.SplashActivity}" drawable="qq_browser"/>
+    <!-- Snapchat -->
+    <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat"/>
+    <!-- 手机淘宝 -->
+    <item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}" drawable="taobao"/>
+    <!-- Telegram -->
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram"/>
+    <!-- 手机天猫 -->
+    <item component="ComponentInfo{com.tmall.wireless/com.tmall.wireless.splash.TMSplashActivity}" drawable="tmall"/>
+    <!-- 今日头条 -->
+    <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity}" drawable="jinritoutiao"/>
+    <!-- Twitter -->
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter"/>
+    <!-- Twitch -->
+    <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch"/>
+    <!-- UC浏览器 -->
+    <item component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}" drawable="uc_browser"/>
+    <!-- 王者荣耀 -->
+    <item component="ComponentInfo{com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity}" drawable="wangzherongyao"/>
+    <!-- Weibo -->
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo"/>
+    <!-- 闲鱼 -->
+    <item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="xianyu"/>
+    <!-- 小红书 -->
+    <item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.activity.SplashActivity}" drawable="xiaohongshu"/>
+    <!-- 西瓜视频 -->
+    <item component="ComponentInfo{com.ss.android.article.video/com.ss.android.article.video.activity.SplashActivity}" drawable="xiguashipin"/>
+    <!-- Ximalaya -->
+    <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}" drawable="ximalaya"/>
+    <!-- 英雄联盟手游 -->
+    <item component="ComponentInfo{com.tencent.lolm/com.tencent.lolm.lgame}" drawable="yingxionglianmengshouyou"/>
+    <!-- 优酷视频 -->
+    <item component="ComponentInfo{com.youku.phone/com.youku.phone.ActivityWelcome}" drawable="youku"/>
+    <!-- 作业帮 -->
+    <item component="ComponentInfo{com.baidu.homework/com.baidu.homework.activity.init.InitActivity}" drawable="zuoyebang"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- ================================= 系统图标适配 SYSTEMS ICONS ================================================================================================================================== -->
+
+
+
+    <!-- ============================================================================ -->
+    <!-- 电话 -->
+
+
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}" drawable="phone"/>
+    <!-- Contacts_and_dialer -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="phone"/>
+    <!-- 适配Googlephone icons-->
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="phone"/>
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="phone"/>
+
+    <!-- ============================================================================ -->
+    <!-- 通讯录 -->
+
+
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="contacts"/>
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+    <!-- Contacts_and_dialer -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+
+
+    <!-- ============================================================================ -->
+    <!-- 短信 -->
+
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
+    <!-- Messages -->
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+    <!-- Messaging -->
+    <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages"/>
+    <!-- Messages -->
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+    <!-- Messages -->
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages"/>
+    <!-- Messaging -->
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="messages"/>
+
+    <!-- ============================================================================ -->
+    <!-- 浏览器 -->
+
+
+    <!-- Samsung Internet -->
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser"/>
+    <!-- Browser -->
+    <item component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main2}" drawable="browser"/>
+
+    <!-- Browser -->
+    <item component="ComponentInfo{com.yandex.browser/com.yandex.browser.YandexBrowserActivity}" drawable="browser"/>
+    <!-- Browser -->
+    <item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
+    <!-- Browser -->
+    <item component="ComponentInfo{com.nearme.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
+    <!-- Browser -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
+    <!-- Browser -->
+    <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="browser"/>
+    <!-- Browser -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.launch.SplashActivity}" drawable="browser"/>
+
+
+    <!-- ============================================================================ -->
+    <!-- 查找手机 -->
+
+
+    <!-- Find Device -->
+    <item component="ComponentInfo{com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.findphone.FindMyPhoneActivity}" drawable="find_phone"/>
+    <!-- Find_My_Phone -->
+    <item component="ComponentInfo{com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.FindMyPhoneActivity}" drawable="find_phone"/>
+    <!-- Find_My_Phone -->
+    <item component="ComponentInfo{com.coloros.findphone.client/com.coloros.findphone.client.LoginActivity}" drawable="find_phone"/>
+    <!-- Find_My_Device -->
+    <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="find_phone"/>
+
+    <!-- ============================================================================ -->
+    <!-- 音乐 -->
+
+
+    <!-- Music -->
+    <item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}" drawable="music"/>
+    <!-- Music -->
+    <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music"/>
+    <!-- Music -->
+    <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="music"/>
+    <!-- Music -->
+    <item component="ComponentInfo{com.smartisanos.music/com.smartisanos.music.activities.MusicMain}" drawable="music"/>
+    <!-- i_Music -->
+    <item component="ComponentInfo{com.android.bbkmusic/com.android.bbkmusic.WidgetToTrackActivity}" drawable="music"/>
+    <!-- Music -->
+    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="music"/>
+
+
+
+    <!-- ============================================================================ -->
+    <!-- 计算器 -->
+
+
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator"/>
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.huawei.calculator/com.huawei.calculator.Calculator}" drawable="calculator"/>
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="calculator"/>
+
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.android.bbkcalculator/com.android.bbkcalculator.Calculator}" drawable="calculator"/>
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.smartisanos.calculator/com.smartisanos.calculator.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator"/>
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/>
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator"/>
+
+    <!-- ============================================================================ -->
+    <!-- 视频 -->
+
+
+    <!-- 视频 -->
+    <item component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}" drawable="video"/>
+    <!-- Mi_Video -->
+    <item component="ComponentInfo{com.miui.video/com.miui.video.HomeActivity}" drawable="video"/>
+    <!-- Mi_Video -->
+    <item component="ComponentInfo{com.miui.video/com.miui.video.feature.main.MainTabActivity}" drawable="video"/>
+
+    <!-- ============================================================================ -->
+    <!-- 录音 -->
+
+
+    <!-- Recorder -->
+    <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="recorder"/>
+    <!-- Recorder -->
+    <item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="recorder"/>
+    <!-- Recorder -->
+    <item component="ComponentInfo{com.android.bbksoundrecorder/com.android.activity.ReclistActivity}" drawable="recorder"/>
+    <!-- Recorder -->
+    <item component="ComponentInfo{org.mokee.recorder/org.lineageos.recorder.RecorderActivity}" drawable="recorder"/>
+    <!-- Recorder -->
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="recorder"/>
+
+    <!-- ============================================================================ -->
+    <!-- 文件管理 -->
+
+
+    <!-- Files -->
+    <item component="ComponentInfo{com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager}" drawable="files"/>
+    <!-- File Manager -->
+    <item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity}" drawable="files"/>
+    <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files"/>
+    <!-- File_Manager -->
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="files"/>
+    <!-- File_Manager -->
+    <item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.Main}" drawable="files"/>
+    <!-- File_Manager -->
+    <item component="ComponentInfo{com.smartisanos.filemanager/com.smartisan.filemanager.MainActivity}" drawable="files"/>
+    <!-- File_Manager -->
+    <item component="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManagerActivity}" drawable="files"/>
+    <!-- Files -->
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files"/>
+    <!-- File_Manager -->
+    <item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="files"/>
+    <!-- Material Files -->
+    <item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="files"/>
+    <!-- Files -->
+    <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files"/>
+    <!-- Files -->
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="files"/>
+
+    <!-- ============================================================================ -->
+    <!-- 相机 -->
+
+
+
+    <!-- Camera -->
+    <item component="ComponentInfo{org.mokee.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
+    <!-- Camera -->
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
+    <!-- Camera -->
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera"/>
+    <!-- Camera -->
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="camera"/>
+    <!-- Camera -->
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}" drawable="camera"/>
+    <!-- Camera -->
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
+    <!-- Camera -->
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera"/>
+    <!--    xiaomi-->
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera"/>
+    <!-- Camera -->
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera"/>
+
+    <item component="ComponentInfo{com.google.android.Pixel2Mod/com.android.camera.CameraLauncher}" drawable="camera"/>
+
+
+
+    <!-- ============================================================================ -->
+    <!-- 照片/相册 -->
+
+
+    <!-- Photos -->
+    <item component="ComponentInfo{com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="photo"/>
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="photo"/>
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="photo"/>
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="photo"/>
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="photo"/>
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Primary}" drawable="photo"/>
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="photo"/>
+    <!-- Albums -->
+    <item component="ComponentInfo{com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity}" drawable="photo"/>
+
+    <!-- ============================================================================ -->
+    <!-- 设置 -->
+
+
+    <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings"/>
+    <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="settings"/>
+    <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
+    <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="settings"/>
+
+    <!-- ============================================================================ -->
+    <!-- 天气 -->
+
+
+    <!-- Weather -->
+    <item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity}" drawable="weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.OppoMainActivity}" drawable="weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}" drawable="weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{com.smartisanos.weather/com.smartisanos.weather.CityWeather}" drawable="smartisan_weather"/>
+    <!-- Weather -->
+    <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather"/>
+
+    <!-- ============================================================================ -->
+    <!-- 日历 -->
+
+
+
+    <!--   eg.
+      <calendar component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" prefix="ic_today_" />
+      -->
+
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" prefix="calendar_"/>
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.coloros.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.coloros.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" prefix="calendar_"/>
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" prefix="calendar_"/>
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="calendar_" />
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
+
+    <!-- ============================================================================ -->
+    <!-- 笔记/备忘录 -->
+
+
+    <!-- Samsung Notes -->
+    <item component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}" drawable="memo"/>
+    <!-- Notes -->
+    <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="memo"/>
+    <!-- Notes -->
+    <item component="ComponentInfo{com.coloros.note/com.nearme.note.view.AllNoteActivity}" drawable="memo"/>
+
+    <!-- Notes -->
+    <item component="ComponentInfo{com.smartisanos.notes/com.smartisanos.notes.NotesActivity}" drawable="memo"/>
+    <!-- Notes -->
+    <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="memo"/>
+    <!-- Notes -->
+    <item component="ComponentInfo{com.android.notes/com.android.notes.Notes}" drawable="memo"/>
+
+    <!-- ============================================================================ -->
+    <!-- 时钟 -->
+
+
+    <!-- Clock -->
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock"/>
+    <!-- Clock -->
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock"/>
+    <!-- Clock -->
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock"/>
+    <!-- Clock -->
+    <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="clock"/>
+    <!-- Clock -->
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock"/>
+    <!-- Clock -->
+    <item component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}" drawable="clock"/>
+    <!-- Clock -->
+    <item component="ComponentInfo{com.smartisanos.clock/com.smartisanos.clock.activity.ClockActivity}" drawable="clock"/>
+    <!-- Clock -->
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock"/>
+    <!-- Clock -->
+    <item
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock"/>
+
+    <!-- ============================================================================ -->
+    <!-- 指南针 -->
+
+
+    <!-- Compass -->
+    <item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="compass"/>
+    <!-- Compass -->
+    <item component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}" drawable="compass"/>
+    <!-- Compass -->
+    <item component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}" drawable="compass"/>
+    <!-- Compass -->
+    <item component="ComponentInfo{com.coloros.compass/com.coloros.compass.flat.FlatCompass}" drawable="compass"/>
+    <!-- Compass -->
+    <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass"/>
+
+    <!-- ============================================================================ -->
+    <!-- 收音机 -->
+
+    <!-- FM_Radio -->
+    <item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="radio"/>
+
+    <!-- ============================================================================ -->
+    <!-- 主题商店/管理 -->
+
+
+    <!-- Themes Manager -->
+    <item component="ComponentInfo{com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}" drawable="theme_store"/>
+    <!-- Themes -->
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}" drawable="theme_store"/>
+    <!-- Themes -->
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="theme_store"/>
+    <!-- Theme_Store -->
+    <item component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="theme_store"/>
+    <!-- Theme_Store -->
+    <item component="ComponentInfo{com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity}" drawable="theme_store"/>
+    <!-- i_Theme -->
+    <item component="ComponentInfo{com.bbk.theme/com.bbk.theme.Theme}" drawable="theme_store"/>
+    <!-- Themes -->
+    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.business.startup.view.StartupActivity}" drawable="theme_store"/>
+
+    <!-- ============================================================================ -->
+    <!-- app商店 -->
+
+
+    <!-- Galaxy Store -->
+    <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="app_store"/>
+    <!-- OPPO_Store -->
+    <item component="ComponentInfo{com.oppo.store/com.oppo.store.InitActivity}" drawable="app_store"/>
+    <!-- Market -->
+    <item component="ComponentInfo{com.smartisanos.appstore/com.smartisanos.common.ui.SplashActivity}" drawable="app_store"/>
+    <!-- V_Appstore -->
+    <item component="ComponentInfo{com.bbk.appstore/com.bbk.appstore.ui.AppStore}" drawable="app_store"/>
+    <!-- xiaomi GetApps -->
+    <item component="ComponentInfo{com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity}" drawable="app_store"/>
+
+    <!-- App_Market -->
+    <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="app_store"/>
+
+    <!-- ============================================================================ -->
+    <!-- 健康 -->
+    <!-- Health -->
+    <item component="ComponentInfo{com.heytap.health/com.heytap.health.launch.LaunchActivity}" drawable="health"/>
+    <!-- Health -->
+    <item component="ComponentInfo{com.mi.health/com.mi.health.splash.SplashActivity}" drawable="health"/>
+
+    <!-- ============================================================================ -->
+    <!-- 游戏中心 -->
+
+
+    <!-- GameCenter -->
+    <item component="ComponentInfo{com.huawei.gamebox/com.huawei.gamebox.GameBoxActivity}" drawable="game_center"/>
+    <!-- GameCenter -->
+    <item component="ComponentInfo{com.huawei.gamebox/com.huawei.gamebox.GameBoxActivity}" drawable="game_center"/>
+    <!-- Game_Space -->
+    <item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}" drawable="game_center"/>
+    <!-- Game_Space -->
+    <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_center"/>
+    <!-- Game_Center -->
+    <item component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}" drawable="game_center"/>
+    <!-- Game_Space -->
+    <item component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.MainActivity}" drawable="game_center"/>
+    <!-- GameCenter -->
+    <item component="ComponentInfo{com.vivo.game/com.vivo.game.ui.LogoActivity}" drawable="game_center"/>
+    <!-- Games -->
+    <item component="ComponentInfo{com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity}" drawable="game_center"/>
+
+    <!-- ============================================================================ -->
+    <!-- 安全中心 -->
+
+
+    <!-- Phone_Manager -->
+    <item component="ComponentInfo{com.smartisanos.security/com.smartisanos.securitycenter.MainActivity}" drawable="phone_management"/>
+    <!-- Phone_Manager -->
+    <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="phone_management"/>
+    <!-- Phone_Manager -->
+    <item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}" drawable="phone_management"/>
+    <!-- i_Manager -->
+    <item component="ComponentInfo{com.iqoo.secure/com.iqoo.secure.MainGuideActivity}" drawable="phone_management"/>
+    <!-- Security -->
+    <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="phone_management"/>
+
+    <!-- ============================================================================ -->
+    <!-- 邮件 -->
+    <!-- Email -->
+    <item component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}" drawable="mail"/>
+    <!-- Mail -->
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail"/>
+
+    <!-- ============================================================================ -->
+    <!-- 钱包 -->
+
+
+    <!-- HiWallet -->
+    <item component="ComponentInfo{com.huawei.wallet/com.huawei.wallet.view.MainActivity}" drawable="wallet"/>
+    <!-- Wallet -->
+    <item component="ComponentInfo{com.finshell.wallet/com.nearme.wallet.SplashActivity}" drawable="wallet"/>
+    <!-- vivo钱包 -->
+    <item component="ComponentInfo{com.vivo.wallet/com.vivo.wallet.StartPageActivity}" drawable="wallet"/>
+    <!-- Mi_Wallet -->
+    <item component="ComponentInfo{com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity}" drawable="wallet"/>
+
+    <!-- ============================================================================ -->
+    <!-- 语音助手/智能助手 -->
+
+
+    <!-- Jovi语音 -->
+    <item component="ComponentInfo{com.vivo.agent/com.vivo.agent.view.activities.JoviHomeNewActivity}" drawable="voice_ai"/>
+    <!-- HiVoice -->
+    <item component="ComponentInfo{com.huawei.vassistant/com.huawei.vassistant.ui.VAssistantActivity}" drawable="voice_ai"/>
+    <!-- AI Voice -->
+    <item component="ComponentInfo{com.huawei.vassistant/com.huawei.vassistant.ui.main.VAssistantActivity}" drawable="voice_ai"/>
+    <!-- Mi_AI -->
+    <item component="ComponentInfo{com.miui.voiceassist/com.xiaomi.voiceassistant.LauncherRouterActivity}" drawable="voice_ai"/>
+    <!-- Breeno_Voice -->
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="voice_ai"/>
+
+
+</resources>
