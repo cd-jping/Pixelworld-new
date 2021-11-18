@@ -3,7 +3,9 @@
 
     <version>1</version>
 
-    <category title = "System Default"/>
+
+    <category title="More ICONS Open ↗ ‘···’" />
+    <category title="System ICONS" />
     <item drawable="app_store"/>
     <item drawable="browser"/>
     <item drawable="calculator"/>
@@ -32,5 +34,7 @@
     <item drawable="voice_ai"/>
     <item drawable="wallet"/>
     <item drawable="weather"/>
+
+
 
 </resources>

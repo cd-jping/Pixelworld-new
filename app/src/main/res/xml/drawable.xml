@@ -4,12 +4,6 @@
     <version>1</version>
 
 
-    <category title="System" />
-    <item drawable="phone" />
-    <item drawable="messages" />
-    <item drawable="contacts" />
-
-
-
+<!--   main 下 不写任何适配-->
 
 </resources>
