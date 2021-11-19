@@ -79,7 +79,6 @@ android {
             versionName "lite-2.9.9-beta"
         }
         pro{
-
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.pro"
             resValue "string","app_name","Pixelword Pro"
@@ -95,6 +94,12 @@ android {
     }
 
     sourceSets {
+        lite{
+            java.srcDirs +='src/lite/kotlin'
+        }
+        pro{
+            java.srcDirs +='src/lite/kotlin'
+        }
         main.java.srcDirs += 'src/main/kotlin'
     }
 

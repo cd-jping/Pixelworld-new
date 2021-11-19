@@ -9,6 +9,12 @@ import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
  * - BottomNavigationBlueprintActivity
  */
 
+
+const val lite:String =""
+const val pro:String =""
+
+
+
 class MainActivity : BottomNavigationBlueprintActivity() {
 
     /**
@@ -28,8 +34,8 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
 
 
-    override fun getLicKey(): String? = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8"
 
+        override fun getLicKey(): String? = pro
 
 
     /**
