@@ -9,13 +9,7 @@ import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
  * - BottomNavigationBlueprintActivity
  */
 
-
-const val lite:String =""
-const val pro:String =""
-
-
-
-class MainActivity : BottomNavigationBlueprintActivity() {
+class MainActivity: BottomNavigationBlueprintActivity() {
 
     /**
      * These things here have the default values. You can delete the ones you don't want to change
@@ -33,9 +27,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * Default one isn't valid and could cause issues in your app.
      */
 
-
-
-        override fun getLicKey(): String? = pro
+    override fun getLicKey(): String? = "MIBIasdfwqefefgewg"
 
 
     /**
