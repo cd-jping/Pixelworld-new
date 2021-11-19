@@ -31,10 +31,12 @@ android {
     buildToolsVersion Versions.buildTools
 
     defaultConfig {
+
         buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
         manifestPlaceholders = [
                 onesignal_app_id               : OneSignal.appId,
-                onesignal_google_project_number: OneSignal.googleProjectNumber
+                onesignal_google_project_number: OneSignal.googleProjectNumber,
+
         ]
         applicationId MyApp.appId
         minSdkVersion Versions.minSdk
@@ -73,12 +75,14 @@ android {
     flavorDimensions ("Edition","Platform")
     productFlavors{
         lite{
+            manifestPlaceholders = [activityName: "priv.jiping.pixelworld"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.lite"
             resValue "string","app_name","Pixelword Lite"
             versionName "lite-2.9.9-beta"
         }
         pro{
+            manifestPlaceholders = [activityName: "priv.jiping.pixelworld"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.pro"
             resValue "string","app_name","Pixelword Pro"
