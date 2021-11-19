@@ -2,8 +2,9 @@
 <resources>
 
     <version>1</version>
+    <category title="More ICONS Open       ↗ " />
 
-    <category title = "System Default"/>
+    <category title="System ICONS" />
     <item drawable="app_store"/>
     <item drawable="browser"/>
     <item drawable="calculator"/>

@@ -79,6 +79,7 @@ android {
             versionName "lite-2.9.9-beta"
         }
         pro{
+
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.pro"
             resValue "string","app_name","Pixelword Pro"

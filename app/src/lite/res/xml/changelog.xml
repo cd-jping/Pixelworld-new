@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="Lite 3.0.1" />
-    <item text="only system icon" />
+    <version title="Lite 3.0.0" />
+    <item text="全新适配了系统图标" />
+    <item text="基本图标更新中" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

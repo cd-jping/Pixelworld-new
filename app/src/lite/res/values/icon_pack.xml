@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
+    <string-array name="icons_preview">
+        <item>app_store</item>
+        <item>browser</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>files</item>
+        <item>find_phone</item>
+        <item>game_center</item>
+        <item>health</item>
+        <item>mail</item>
+        <item>map</item>
+        <item>memo</item>
+        <item>messages</item>
+        <item>music</item>
+        <item>phone</item>
+        <item>phone_management</item>
+        <item>photo</item>
+        <item>radio</item>
+        <item>recorder</item>
+        <item>settings</item>
+        <item>theme_store</item>
+        <item>video</item>
+        <item>voice_ai</item>
+        <item>wallet</item>
+        <item>weather</item>
+    </string-array>
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- Make sure the filters names are the same as the other arrays -->
+    <string-array name="icon_filters">
+
+        <item>SystemDefault</item>
+        <item>Adaptation</item>
+
+
+    </string-array>
+
+    <string-array name="SystemDefault">
+        <item>app_store</item>
+        <item>browser</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>files</item>
+        <item>find_phone</item>
+        <item>game_center</item>
+        <item>health</item>
+        <item>mail</item>
+        <item>map</item>
+        <item>memo</item>
+        <item>messages</item>
+        <item>music</item>
+        <item>phone</item>
+        <item>phone_management</item>
+        <item>photo</item>
+        <item>radio</item>
+        <item>recorder</item>
+        <item>settings</item>
+        <item>theme_store</item>
+        <item>video</item>
+        <item>voice_ai</item>
+        <item>wallet</item>
+        <item>weather</item>
+    </string-array>
+
+    <string-array name="Adaptation">
+
+        <item>alibaba</item>
+        <item>alipay</item>
+        <item>amazon_shopping</item>
+        <item>baidu</item>
+        <item>baiduwangpan</item>
+        <item>bigo_live</item>
+        <item>bilibili</item>
+        <item>coolapk</item>
+        <item>dewu_du</item>
+        <item>dingding</item>
+        <item>discord</item>
+        <item>docs</item>
+        <item>dongchedi</item>
+        <item>dotpict</item>
+        <item>douyin</item>
+        <item>douyu</item>
+        <item>dribbble</item>
+        <item>dropbox</item>
+        <item>facebook</item>
+        <item>fanqiemianfeixiaoshuo</item>
+        <item>gaodeditu</item>
+        <item>google_chrome</item>
+        <item>google_drive</item>
+        <item>google_gmail</item>
+        <item>google_photos</item>
+        <item>google_play_store</item>
+        <item>google_snapseed</item>
+        <item>google_youtube</item>
+        <item>instagram</item>
+        <item>iqiyi</item>
+        <item>jingdong</item>
+        <item>kindle_yuedu</item>
+        <item>kuaishoujisuban</item>
+        <item>kuake</item>
+        <item>kugou</item>
+        <item>kwai</item>
+        <item>medibang_paint</item>
+        <item>microsoft_word</item>
+        <item>minecraft</item>
+        <item>mini_metro</item>
+        <item>miss_lee</item>
+        <item>netease_cloudmusic</item>
+        <item>netease_minecraft</item>
+        <item>netease_yanxuan</item>
+        <item>onedrive</item>
+        <item>onenote</item>
+        <item>pinduoduo</item>
+        <item>pinterest</item>
+        <item>pubg_mobile</item>
+        <item>qidiandushu</item>
+        <item>qq</item>
+        <item>qq_browser</item>
+        <item>qq_zone</item>
+        <item>snapchat</item>
+        <item>spotify</item>
+        <item>taobao</item>
+        <item>taptap</item>
+        <item>telegram</item>
+        <item>tencent_qqlive</item>
+        <item>tmall</item>
+        <item>toutiao</item>
+        <item>twitch</item>
+        <item>twitter</item>
+        <item>uber</item>
+        <item>uc_browser</item>
+        <item>via</item>
+        <item>wangvpn</item>
+        <item>wangzherongyao</item>
+        <item>wechat</item>
+        <item>weibo</item>
+        <item>xbox</item>
+        <item>xianyu</item>
+        <item>xiaohongshu</item>
+        <item>xiguashipin</item>
+        <item>ximalaya</item>
+        <item>yingxionglianmengshouyou</item>
+        <item>youku</item>
+        <item>yun_yuanshen</item>
+        <item>zuoyebang</item>
+    </string-array>
+
+
+
+</resources>

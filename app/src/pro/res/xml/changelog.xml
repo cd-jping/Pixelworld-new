@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="Pro 3.0.1" />
-    <item text="Add xxx icons" />
-    <item text="" /> <!-- this one is empty and therefore ignored -->
+    <version title="Pro 3.0.0" />
+    <item text="已经适配到 1000+ 枚图标！" />
+    <item text="部分图标重绘"/>
+    <item text="请求适配图标请用电子邮件的方式发送" />
 </resources>
