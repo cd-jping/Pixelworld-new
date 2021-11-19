@@ -148,7 +148,10 @@
 
 
 
-    <!-- 系统图标适配 SYSTEMS ICONS -->
+
+    <!-- ================================= 系统图标适配 SYSTEMS ICONS ================================================================================================================================== -->
+
+
 
     <!-- ============================================================================ -->
     <!-- 电话 -->
@@ -335,8 +338,7 @@
     <item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="files"/>
     <!-- Files -->
     <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files"/>
-    <!-- Files -->
-    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="files"/>
+
 
     <!-- ============================================================================ -->
     <!-- 相机 -->
@@ -419,7 +421,7 @@
     <!-- Weather -->
     <item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="weather"/>
     <!-- Weather -->
-    <item component="ComponentInfo{com.smartisanos.weather/com.smartisanos.weather.CityWeather}" drawable="smartisan_weather"/>
+    <item component="ComponentInfo{com.smartisanos.weather/com.smartisanos.weather.CityWeather}" drawable="weather"/>
     <!-- Weather -->
     <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather"/>
 
@@ -472,6 +474,8 @@
     <item component="ComponentInfo{com.smartisanos.notes/com.smartisanos.notes.NotesActivity}" drawable="memo"/>
     <!-- Notes -->
     <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="memo"/>
+    <!-- Notes -->
+    <item component="ComponentInfo{com.android.notes/com.android.notes.Notes}" drawable="memo"/>
 
     <!-- ============================================================================ -->
     <!-- 时钟 -->
@@ -623,6 +627,8 @@
     <!-- 语音助手/智能助手 -->
 
 
+    <!-- Jovi语音 -->
+    <item component="ComponentInfo{com.vivo.agent/com.vivo.agent.view.activities.JoviHomeNewActivity}" drawable="voice_ai"/>
     <!-- HiVoice -->
     <item component="ComponentInfo{com.huawei.vassistant/com.huawei.vassistant.ui.VAssistantActivity}" drawable="voice_ai"/>
     <!-- AI Voice -->

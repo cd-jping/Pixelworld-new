@@ -34,6 +34,9 @@
     <!-- ================================= Pro版本图标适配 Pro ICONS ================================================================================================================================== -->
 
 
+    <!-- Google Files -->
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="google_files"/>
+
     <!--    24 update-->
     <!-- Alarmy -->
     <item component="ComponentInfo{droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity}" drawable="alarmy"/>
@@ -2836,22 +2839,7 @@
     <item component="ComponentInfo{com.tencent.af/com.tencent.af.AFActivity}" drawable="wangpaizhanshi"/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- ================================= 常用图标适配 POPULAR ICONS ================================================================================================================================== -->
-
-
 
     <!-- WeChat -->
     <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat"/>
@@ -3158,8 +3146,6 @@
     <item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="files"/>
     <!-- Files -->
     <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files"/>
-    <!-- Files -->
-    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="google_files"/>
 
     <!-- ============================================================================ -->
     <!-- 相机 -->
@@ -3242,7 +3228,7 @@
     <!-- Weather -->
     <item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="weather"/>
     <!-- Weather -->
-    <item component="ComponentInfo{com.smartisanos.weather/com.smartisanos.weather.CityWeather}" drawable="smartisan_weather"/>
+    <item component="ComponentInfo{com.smartisanos.weather/com.smartisanos.weather.CityWeather}" drawable="weather"/>
     <!-- Weather -->
     <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather"/>
 
