@@ -320,7 +320,7 @@
     <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="brevent"/>
 
     <!-- CSDN -->
-    <item component="ComponentInfo{net.csdn.csdnplus/net.csdn.csdnplus.activity.SplashActivity}" drawable="csdn_one"/>
+    <item component="ComponentInfo{net.csdn.csdnplus/net.csdn.csdnplus.activity.SplashActivity}" drawable="csdn"/>
 
     <!-- Canva 可画 -->
     <item component="ComponentInfo{cn.canva.editor/com.canva.app.editor.splash.DataConsentSplashActivity}" drawable="canva"/>

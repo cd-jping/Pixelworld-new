@@ -4,7 +4,8 @@
     <version>1</version>
 
 
-    <category title="More ICONS Open ↗ ‘···’" />
+    <category title="More ICONS Open       ↗ " />
+
     <category title="System ICONS" />
     <item drawable="app_store"/>
     <item drawable="browser"/>
@@ -35,6 +36,12 @@
     <item drawable="wallet"/>
     <item drawable="weather"/>
 
-
+    <category title="Old Version ICONS" />
+    <item drawable="dribbble"/>
+    <item drawable="dribbble_one"/>
+    <item drawable="csdn"/>
+    <item drawable="csdn_one"/>
+    <item drawable="tetris"/>
+    <item drawable="tetris_one"/>
 
 </resources>
