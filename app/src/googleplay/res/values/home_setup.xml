@@ -6,7 +6,7 @@
         1. Small
         2. Big
     -->
-    <integer name="home_actions_style">2</integer>
+    <integer name="home_actions_style">1</integer>
 
     <!--
         Do you want to show overview in home section?
@@ -30,21 +30,34 @@
     <string name="quick_apply_custom_text"></string>
 
     <!-- These arrays are for the list of apps or links in main section. -->
+<!--    标题-->
     <string-array name="home_list_titles">
 <!--        <item>喜欢这个应用</item>-->
-        <item>想说的话</item>
+        <item>Pixelworld Pro</item>
+<!--        <item>支付宝打赏</item>-->
+        <item>加入QQ群</item>
+<!--        <item>在酷安发起话题分享</item>-->
     </string-array>
+<!--    描述-->
     <string-array name="home_list_descriptions">
 <!--        <item>给 Pixelworld 评分</item>-->
-        <item>说明和信息</item>
+        <item>可请求适配任意数量图标</item>
+<!--        <item>用支付宝支持作者</item>-->
+        <item>用微信支持作者</item>
     </string-array>
+<!--    图标-->
     <string-array name="home_list_icons">
 <!--        <item>icon_like_app</item>-->
         <item>icon_info</item>
+<!--        <item>icon_alipay</item>-->
+        <item>icon_wechatpay</item>
     </string-array>
+<!--    链接-->
     <string-array name="home_list_links">
 <!--        APP 推荐链接；目前不能在当前应用中给当前的应用跳。可以跳转其他APP
 <item>market://details?id=me.jiping.theme.launcher.icon.pack.pixelworl</item>-->
         <item>https://cd-jping.gitee.io/pixelworld/</item>
+<!--        <item>https://qr.alipay.com/fkx16970osjnauxi3mj5te3</item>-->
+        <item>https://gitee.com/cd-jping/pixelworld/raw/master/assets/wechat_pay.JPG</item>
     </string-array>
 </resources>

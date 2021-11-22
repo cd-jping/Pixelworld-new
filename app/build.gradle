@@ -75,6 +75,7 @@ android {
     flavorDimensions ("Edition","Platform")
     productFlavors{
         lite{
+            resValue "string","title","to Pro"
             manifestPlaceholders = [activityName: "priv.jiping.pixelworld.MainActivityLite"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.lite"
@@ -82,6 +83,7 @@ android {
             versionName "lite-2.9.9-beta"
         }
         pro{
+            resValue "string","title",""
             manifestPlaceholders = [activityName: "priv.jiping.pixelworld.MainActivityPro"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.pro"
@@ -90,6 +92,7 @@ android {
         }
 
         standard{
+
             dimension "Platform"
         }
         googleplay{
