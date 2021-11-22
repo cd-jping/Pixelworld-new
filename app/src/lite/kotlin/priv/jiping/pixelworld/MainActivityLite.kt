@@ -1,7 +1,7 @@
 package priv.jiping.pixelworld
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
+import dev.jahir.blueprint.ui.activities.DrawerBlueprintActivity
 
 /**
  * You can choose between:
@@ -9,7 +9,7 @@ import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
  * - BottomNavigationBlueprintActivity
  */
 
-class MainActivity: BottomNavigationBlueprintActivity() {
+class MainActivityLite: DrawerBlueprintActivity() {
 
     /**
      * These things here have the default values. You can delete the ones you don't want to change

@@ -75,14 +75,14 @@ android {
     flavorDimensions ("Edition","Platform")
     productFlavors{
         lite{
-            manifestPlaceholders = [activityName: "priv.jiping.pixelworld"]
+            manifestPlaceholders = [activityName: "priv.jiping.pixelworld.MainActivityLite"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.lite"
             resValue "string","app_name","Pixelword Lite"
             versionName "lite-2.9.9-beta"
         }
         pro{
-            manifestPlaceholders = [activityName: "priv.jiping.pixelworld"]
+            manifestPlaceholders = [activityName: "priv.jiping.pixelworld.MainActivityPro"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.pro"
             resValue "string","app_name","Pixelword Pro"
