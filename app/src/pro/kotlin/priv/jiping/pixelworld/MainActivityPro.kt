@@ -27,7 +27,7 @@ class MainActivityPro: BottomNavigationBlueprintActivity() {
      * Default one isn't valid and could cause issues in your app.
      */
 
-    override fun getLicKey(): String? = "MIBIasdfwqefefgewg"
+    override fun getLicKey(): String? = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArEqh9E96+R1iN/HrPL7ibEI7lApuODAoH7z93VEpW6kj2uK7xBDklBygIUmrsbWZEmfgC6jxOBtZaDEf27ovNj3bP0itb2L9OGkQjKo1Ih+LQvmQVYPIKPvgG9nXVt1MhljXsZ1JsNPBA8ybmK3Y/OMpVMVFeboqNsI3K+si59UWKVJnuZqx4UOFKVTZEm9yoTpISDIoISOJOH8N+PRcsyy7iog4+nJXnHYJhXwSE9tv4c108PUpoqHJ6me3SvksclaMYazkNUXEsLM05bNRZ2XfpOUjNHcdZxManB4hn9VgVbtAU++qxbKznjTJx2GVa26l2vbTuWe8TKpmJwiLDwIDAQAB"
 
 
     /**

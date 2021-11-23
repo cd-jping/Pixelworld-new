@@ -27,7 +27,7 @@ class MainActivityLite: DrawerBlueprintActivity() {
      * Default one isn't valid and could cause issues in your app.
      */
 
-    override fun getLicKey(): String? = "MIBIasdfwqefefgewg"
+    override fun getLicKey(): String? = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwSllJ6teNk8WnSEmk1f0nLKhZUxckT8/r3P+oHtrBqN3Y8I0punSpRntww328EOAHTMYP6ucaciv+hPui6wRGbMyNe5u4QGDXfKMKrLvA8Qq9koBkyn0KMP8Puxb4Mv8J5f4hhTsb9xBEO9+Bthr1316eQxl/y6zVRogKpyETVIicysOnEZ3xLX5RFZv5DP+hdSQB2upRjBDP/SZtiHZzWPuoRyPZ9iYAKkOrIJAN1NYovoCBQPC/ZnK0+EbMfhVVk5BqmWW7D6aGUEmEcGunY3lOWiicmVhPWRh4uFSOscALl6BbSz87QRk45hpmnoYIWcrcTq52MMYxS2kgZETYwIDAQAB"
 
 
     /**
