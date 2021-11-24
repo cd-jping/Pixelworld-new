@@ -75,7 +75,11 @@ android {
     flavorDimensions ("Edition","Platform")
     productFlavors{
         lite{
-            resValue "string","title","to Pro"
+            resValue "string","title","Get Pixelworld Pro"
+            resValue "string","desc","可请求适配任意数量图标"
+            resValue "string","listicon","icon_app_pixelworld"
+            resValue "string","links","market://details?id=priv.jiping.pixelworld.pro"
+
             manifestPlaceholders = [activityName: "priv.jiping.pixelworld.MainActivityLite"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.lite"
@@ -84,6 +88,10 @@ android {
         }
         pro{
             resValue "string","title",""
+            resValue "string","desc",""
+            resValue "string","listicon",""
+            resValue "string","links",""
+
             manifestPlaceholders = [activityName: "priv.jiping.pixelworld.MainActivityPro"]
             dimension "Edition"
             applicationId "priv.jiping.pixelworld.pro"

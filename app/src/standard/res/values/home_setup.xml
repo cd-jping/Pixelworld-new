@@ -32,26 +32,35 @@
     <!-- These arrays are for the list of apps or links in main section. -->
 <!--    标题-->
     <string-array name="home_list_titles">
-<!--        <item>@string/title</item>-->
-        <item>加入QQ群</item>
-<!--        <item>在酷安发起话题分享</item>-->
+
+        <item>@string/title</item>
+        <item>关于Pixelworld</item>
+        <item>支付宝捐赠</item>
+        <item>QQ 交流群</item>
+
     </string-array>
-<!--    描述-->
+    <!--    描述-->
     <string-array name="home_list_descriptions">
-        <item>分享</item>
+        <item>@string/desc</item>
+        <item>想说的话</item>
+        <item>给作者一块面包🍞</item>
+        <item>一起分享交流Pixel Art</item>
+
     </string-array>
-<!--    图标-->
+    <!--    图标-->
     <string-array name="home_list_icons">
-        <item>icon_wechatpay</item>
+        <item>@string/listicon</item>
+        <item>icon_web</item>
+        <item>icon_alipay</item>
+        <item>icon_qq_group</item>
+
     </string-array>
-<!--    链接-->
+    <!--    链接-->
     <string-array name="home_list_links">
-<!-- APP 推荐链接；目前不能在当前应用中给当前的应用跳。可以跳转其他APP-->
-<!--<item>market://details?id=me.jiping.theme.launcher.icon.pack.pixelworl</item> -->
-
-<!--        <item>https://cd-jping.gitee.io/pixelworld/</item>-->
-<item>http://mtw.so/5YO6UE</item>
-
-<!--        <item>https://gitee.com/cd-jping/pixelworld/raw/master/assets/wechat_pay.JPG</item>-->
+    <!--     APP 推荐链接；目前不能在当前应用中给当前的应用跳。可以跳转其他APP-->
+    <item>@string/links</item>
+    <item>https://cd-jping.gitee.io/pixelworld/</item>
+    <item>https://qr.alipay.com/fkx16970osjnauxi3mj5te3</item>
+    <item>http://mtw.so/5YO6UE</item>
     </string-array>
 </resources>
