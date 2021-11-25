@@ -3,5 +3,5 @@
 object MyApp {
     const val appId = "priv.jiping.pixelworld"
     const val version = 225
-    const val versionName = "2.2.4"
+    const val versionName = "3.0.0"
 }
